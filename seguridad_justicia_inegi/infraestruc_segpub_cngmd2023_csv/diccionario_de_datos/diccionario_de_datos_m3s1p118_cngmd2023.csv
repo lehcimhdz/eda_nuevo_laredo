@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 118,Numérico,5,0 al 99999
+tipoequi_g,Tipos de equipamiento tecnológico,SECC I. 118,Numérico,3,10 al 110
+rnsnni1,Existencia del tipo de equipamiento tecnológico,SECC I. 118,Numérico,2,0 al 98
+totalca1,Equipamiento tecnológico,SECC I. 118,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

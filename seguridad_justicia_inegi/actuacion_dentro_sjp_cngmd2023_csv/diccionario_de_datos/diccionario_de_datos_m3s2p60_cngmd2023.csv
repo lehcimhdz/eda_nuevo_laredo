@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 60,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 60,Numérico,1,1 al 2
+totalca1,Denuncias recibidas,SECC II. 60,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

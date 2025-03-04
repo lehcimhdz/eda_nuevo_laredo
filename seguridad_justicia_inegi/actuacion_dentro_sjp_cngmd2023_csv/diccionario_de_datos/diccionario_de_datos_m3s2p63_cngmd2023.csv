@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 63,Numérico,5,0 al 99999
+lecdertt,Total,SECC II. 63,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+lecder1,A la víctima o persona ofendida,SECC II. 63,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+lecder2,A la persona detenida,SECC II. 63,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+lecder3,No identificado,SECC II. 63,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+lecderne,No especificado,SECC II. 63,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

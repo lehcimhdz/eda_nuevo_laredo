@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 1,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 1,Numérico,1,1 al 2
+rnsnni1,Realización de puestas a disposición de objetos y/o de personas,SECC II. 1,Numérico,2,0 al 98
+totalca1,Puestas a disposición de objetos realizadas,SECC II. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pudisptt,Puestas a disposición de personas realizadas - Total,SECC II. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pudisp1,Puestas a disposición de personas realizadas - Ante la autoridad de Justicia Cívica,SECC II. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pudisp2,Puestas a disposición de personas realizadas - Ante el Ministerio Público,SECC II. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pudispne,Puestas a disposición de personas realizadas - No especificado,SECC II. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

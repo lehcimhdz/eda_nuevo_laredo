@@ -1,0 +1,11 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 123,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 123,Carácter,4,0-5000
+nombre1,Nombre de los centros de atención de llamadas de emergencia,SECC I. 123,Carácter,2500,
+anios_a,Año de creación (aaaa),SECC I. 123,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+rnsnni1,Ubicación dentro de algún complejo de seguridad,SECC I. 123,Numérico,2,0 al 98
+colonia1,Colonia,SECC I. 123,Carácter,2500,
+latitud1,Latitud,SECC I. 123,Carácter,2500,
+longitu1,Longitud,SECC I. 123,Carácter,2500,
+correo1,Correo electrónico de contacto,SECC I. 123,Carácter,2500,
+telefo1,Número telefónico de contacto (diez dígitos),SECC I. 123,Carácter,2500,

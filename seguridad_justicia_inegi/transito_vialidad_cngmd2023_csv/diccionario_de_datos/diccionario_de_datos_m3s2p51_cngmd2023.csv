@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 51,Numérico,5,0 al 99999
+montos1,Monto recuperado,SECC II. 51,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+montos2,Monto adeudado,SECC II. 51,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

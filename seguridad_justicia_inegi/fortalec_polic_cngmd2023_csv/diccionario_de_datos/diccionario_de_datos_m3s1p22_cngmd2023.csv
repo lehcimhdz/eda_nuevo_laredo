@@ -1,0 +1,14 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 22,Numérico,5,0 al 99999
+rnsnni1,Impartición de acciones formativas al personal,SECC I. 22,Numérico,2,0 al 98
+acfoic1,Acciones formativas impartidas - Total,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic2,Acciones formativas impartidas - Medio de presentación - Presencial,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic3,Acciones formativas impartidas - Medio de presentación - En línea,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic4,Acciones formativas impartidas - Medio de presentación - Síncrono,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic6,Acciones formativas impartidas y concluidas - Total,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic7,Acciones formativas impartidas y concluidas - Medio de presentación - Presencial,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic8,Acciones formativas impartidas y concluidas - Medio de presentación - En línea,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+acfoic9,Acciones formativas impartidas y concluidas - Medio de presentación - Síncrono,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexostt,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - Total,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - Hombres,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - Mujeres,SECC I. 22,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

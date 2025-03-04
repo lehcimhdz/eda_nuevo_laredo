@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 92,Numérico,5,0 al 99999
+activida_a,Tipo de actividades ilegales,SECC I. 92,Numérico,1,1 al 9
+siweig1,Sitios web identificados,SECC I. 92,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+siweig2,Sitios web gestionados para su desactivación,SECC I. 92,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

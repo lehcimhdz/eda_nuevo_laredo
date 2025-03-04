@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 113,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 113,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 113,Carácter,2500,
+rnsnni1,Existencia de computadoras,SECC I. 113,Numérico,2,0 al 98
+comint1,Computadoras,SECC I. 113,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+comint2,Computadoras con conexión a internet,SECC I. 113,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

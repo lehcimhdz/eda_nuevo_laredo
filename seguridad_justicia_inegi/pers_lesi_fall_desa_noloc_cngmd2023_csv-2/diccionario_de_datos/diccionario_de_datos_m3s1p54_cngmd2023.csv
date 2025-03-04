@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 54,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 54,Numérico,1,1 al 2
+rnsnni1,Registro de la desaparición y/o no localización de alguna de las personas servidoras públicas,SECC I. 54,Numérico,2,0 al 98
+sexostt,Total,SECC I. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

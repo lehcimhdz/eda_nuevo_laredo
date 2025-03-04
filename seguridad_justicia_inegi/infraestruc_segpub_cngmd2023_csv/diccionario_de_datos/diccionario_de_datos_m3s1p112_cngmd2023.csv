@@ -1,0 +1,11 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 112,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 112,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 112,Carácter,2500,
+rnsnni1,Existencia de equipo y/o servicios tecnológicos,SECC I. 112,Numérico,2,0 al 98
+equtec1,Acceso a bases de datos y sistemas de información,SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+equtec2,Sistema de radiocomunicación,SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+equtec3,Sistema de vigilancia de circuito cerrado de televisión,SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+equtec4,Generador de energía eléctrica,SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+equtec5,Vídeo wall (pantallas),SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+equtec6,Otro equipo o servicios tecnológicos,SECC I. 112,Carácter,3,"1, NA, NSS, ND, NP, NULL"

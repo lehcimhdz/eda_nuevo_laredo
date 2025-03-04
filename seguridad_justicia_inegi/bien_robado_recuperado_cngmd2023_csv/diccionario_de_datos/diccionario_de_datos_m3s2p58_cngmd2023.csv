@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 58,Numérico,5,0 al 99999
+mercpira_d,Tipo de bienes,SECC II. 58,Numérico,2,1 al 99
+rnsnni1,Recepción de algún reporte de robo,SECC II. 58,Numérico,2,0 al 98
+unidmedi_h,Unidad de medida para su contabilización,SECC II. 58,Numérico,2,0 al 98
+bienrr1,Bienes reportados como robados,SECC II. 58,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+bienrr2,Bienes recuperados,SECC II. 58,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

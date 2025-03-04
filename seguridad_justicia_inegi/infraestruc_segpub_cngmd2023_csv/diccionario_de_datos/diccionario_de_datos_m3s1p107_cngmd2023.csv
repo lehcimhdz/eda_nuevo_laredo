@@ -1,0 +1,22 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 107,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 107,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 107,Carácter,2500,
+rnsnni1,Existencia de áreas o espacios físicos de infraestructura,SECC I. 107,Numérico,2,0 al 98
+aresin1,Para la atención y realización de funciones - Sala de espera,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin2,Para la atención y realización de funciones - Módulo de orientación,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin3,Para la atención y realización de funciones - Espacios para entrevistas,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin4,Para la atención y realización de funciones - Espacios para inspección de personas,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin5,Para la atención y realización de funciones - Área de atención ciudadana,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin6,Para la atención y realización de funciones - Área médica,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin7,Para la atención y realización de funciones - Área para el ingreso y registro de detenidos,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin8,Para la atención y realización de funciones - Área de resguardo de pertenencias,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin9,Para el personal - Espacios administrativos,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin10,Para el personal - Cocina,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin11,Para el personal - Comedor,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin12,Para el personal - Almacén o bodega,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin13,Para el personal - Área para patrullas,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin14,Para el personal - Plazas de acceso,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin15,Para el personal - Sala de descanso,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin16,Para el personal - Sala de juntas y/o capacitación,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresin17,Otras áreas o espacios físicos,SECC I. 107,Carácter,3,"1, NA, NSS, ND, NP, NULL"

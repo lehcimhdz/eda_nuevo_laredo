@@ -1,0 +1,3 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 143,Numérico,5,0 al 99999
+totalca1,Presupuesto ejercido por la academia o instituto de formación policial,SECC I. 143,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

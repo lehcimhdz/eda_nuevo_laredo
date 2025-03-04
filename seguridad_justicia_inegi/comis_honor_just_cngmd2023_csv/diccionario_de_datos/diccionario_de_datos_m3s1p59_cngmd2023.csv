@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 59,Numérico,5,0 al 99999
+tiserpub_n,Personas servidoras públicas y/o representantes,SECC I. 59,Numérico,1,1 al 9
+rnsnni1,Integración de la Comisión de Honor y Justicia u homóloga,SECC I. 59,Numérico,2,0 al 98
+devozvot_b,Derecho de la persona servidora pública y/o representante en las sesiones,SECC I. 59,Numérico,2,0 al 98

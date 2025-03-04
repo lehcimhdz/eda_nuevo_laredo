@@ -1,0 +1,16 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 114,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 114,Carácter,4,0-5000
+nombre1,Nombre de los cuarteles de policía,SECC I. 114,Carácter,2500,
+rnsnni1,Existencia de áreas o espacios físicos de infraestructura,SECC I. 114,Numérico,2,0 al 98
+areinf1,Almacén o bodega,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf2,Cocina,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf3,Comedor,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf4,Gimnasio,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf5,Lavandería,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf6,Peluquería,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf7,Servicio médico,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf8,Servicio dental,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf9,Patio de formación,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf10,Servicio psicológico o de contención emocional,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+areinf11,Otras áreas o espacios físicos,SECC I. 114,Carácter,3,"1, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 52,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 52,Numérico,1,1 al 2
+rnsnni1,Registro de enfrentamientos ocurridos en el municipio en los que hubieran participado elementos adscritos a la institución encargada de la función de seguridad pública,SECC II. 52,Numérico,2,0 al 98
+totalca1,Enfrentamientos ocurridos,SECC II. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

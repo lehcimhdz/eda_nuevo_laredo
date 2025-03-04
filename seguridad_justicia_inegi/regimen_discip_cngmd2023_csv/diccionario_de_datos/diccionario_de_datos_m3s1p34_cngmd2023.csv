@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 34,Numérico,5,0 al 99999
+orgapoli_j,Tipo de organización policial,SECC I. 34,Numérico,2,11 al 99
+rnsnni1,2021 - Existencia de algún mecanismo para la recepción de quejas y/o denuncias ciudadanas en la unidad de asuntos internos u homóloga,SECC I. 34,Numérico,2,0 al 98
+totalca1,2021 - Quejas ciudadanas recibidas,SECC I. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+rnsnni2,2022 - Existencia de algún mecanismo para la recepción de quejas y/o denuncias ciudadanas en la unidad de asuntos internos u homóloga,SECC I. 34,Numérico,2,0 al 98
+totalca2,2022 - Quejas ciudadanas recibidas,SECC I. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

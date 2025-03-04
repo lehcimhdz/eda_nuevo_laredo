@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 66,Numérico,5,0 al 99999
+tordenes_b,Tipo de órdenes,SECC II. 66,Numérico,1,1 al 9
+rnsnni1,Recepción de alguna solicitud para su ejecución,SECC II. 66,Numérico,2,0 al 98
+ordcum1,Órdenes recibidas,SECC II. 66,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ordcum2,Órdenes cumplimentadas,SECC II. 66,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

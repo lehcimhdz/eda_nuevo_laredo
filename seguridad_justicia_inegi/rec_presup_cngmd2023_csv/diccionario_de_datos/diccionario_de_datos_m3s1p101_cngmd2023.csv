@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 101,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 101,Numérico,1,1 al 2
+rnsnni1,Recepción por parte del Gobierno de la entidad federativa de alguna aportación,SECC I. 101,Numérico,2,0 al 98
+nombre1,Nombre del fondo especial u homólogo para el fortalecimiento de la seguridad pública municipal,SECC I. 101,Carácter,2500,
+totalca1,Monto aportado,SECC I. 101,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

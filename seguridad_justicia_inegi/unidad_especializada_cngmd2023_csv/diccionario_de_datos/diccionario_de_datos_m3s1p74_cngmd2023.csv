@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 74,Numérico,5,0 al 99999
+rnsnni1,Realización de mesas de análisis y/o reuniones para el monitoreo y evolución de los patrones delictivos,SECC I. 74,Numérico,2,0 al 98
+totalca1,Mesas de análisis y/o reuniones realizadas,SECC I. 74,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

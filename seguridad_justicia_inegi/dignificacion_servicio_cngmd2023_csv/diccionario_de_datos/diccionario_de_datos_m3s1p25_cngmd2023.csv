@@ -1,0 +1,17 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 25,Numérico,5,0 al 99999
+formprot_a,Formas de protesta,SECC I. 25,Numérico,1,1 al 9
+rnsnni1,Registro de protestas realizadas por el personal adscrito a la institución encargada de la función de seguridad pública,SECC I. 25,Numérico,2,0 al 98
+motivott,Total,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo1,Ausencia de pago de remuneraciones,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo2,Ausencia de prestaciones laborales,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo3,Falta de equipamiento para el ejercicio de sus funciones,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo4,Actos de corrupción o abuso de autoridad de mandos (sin incluir el cobro de cuotas),SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo5,Cobro de cuotas por parte de mandos,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo6,Inconformidad con las jornadas laborales,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo7,Falta de contrato laboral,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo8,Hostigamiento o acoso sexual,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo9,Trato denigrante y humillaciones,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo10,"Realización de actividades que no corresponden a su empleo, cargo o comisión",SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo11,Otro motivo,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+motivo12,No identificado,SECC I. 25,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

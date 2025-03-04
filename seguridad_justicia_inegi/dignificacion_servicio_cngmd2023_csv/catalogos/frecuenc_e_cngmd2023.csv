@@ -1,0 +1,15 @@
+frecuenc_e,descrip
+0,No aplica
+1,Una sola vez
+2,Semestral
+3,Anual
+4,Bienal
+5,Trienal
+6,Cuadrienal
+7,Quinquenal
+8,Periodos mayores a cinco años
+9,Otra frecuencia
+99,No identificado
+996,No publicable por el principio de confidencialidad o por reserva de información
+997,No cuenta con elementos para responder
+998,Información no disponible

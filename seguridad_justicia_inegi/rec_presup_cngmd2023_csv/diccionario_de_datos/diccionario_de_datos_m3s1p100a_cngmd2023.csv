@@ -1,0 +1,12 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 100,Numérico,5,0 al 99999
+capobg1,Servicios personales - Capítulo 1000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg2,Materiales y suministros - Capítulo 2000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg3,Servicios generales - Capítulo 3000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg4,"Transferencias, asignaciones, subsidios y otras ayudas - Capítulo 4000",SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg5,"Bienes muebles, inmuebles e intangibles - Capítulo 5000",SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg6,Inversión pública - Capítulo 6000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg7,Inversiones financieras y otras provisiones - Capítulo 7000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg8,Participaciones y aportaciones - Capítulo 8000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobg9,Deuda pública - Capítulo 9000,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+capobgne,No especificado,SECC I. 100,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

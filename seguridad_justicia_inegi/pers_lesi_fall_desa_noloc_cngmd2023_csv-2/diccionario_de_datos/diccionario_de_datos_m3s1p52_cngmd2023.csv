@@ -1,0 +1,15 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 52,Numérico,5,0 al 99999
+instcomi_b,Instrumento utilizado para la comisión,SECC I. 52,Numérico,1,1 al 9
+honsui1,Homicidio - Doloso - Total,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui2,Homicidio - Doloso - Hombres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui3,Homicidio - Doloso - Mujeres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui5,Homicidio - Culposo - Total,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui6,Homicidio - Culposo - Hombres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui7,Homicidio - Culposo - Mujeres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui9,Homicidio - No identificado - Total,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui10,Homicidio - No identificado - Hombres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui11,Homicidio - No identificado - Mujeres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui13,Suicidio - Total,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui14,Suicidio - Hombres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+honsui15,Suicidio - Mujeres,SECC I. 52,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,10 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 15,Numérico,5,0 al 99999
+tipoinst_b,Institución de seguridad del ámbito federal,SECC I. 15,Numérico,1,1 al 9
+rnsnni1,Participación de elementos con la finalidad de desempeñar funciones de seguridad pública del municipio,SECC I. 15,Numérico,2,0 al 98
+perioatt,Total,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perioa1,Menos de tres meses,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perioa2,De tres a menos de seis meses,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perioa3,De seis a menos de nueve meses,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perioa4,De nueve a doce meses,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perioa5,No identificado,SECC I. 15,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 8,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 8,Numérico,1,1 al 2
+ppiflf1,Probables personas infractoras de presuntas faltas cívicas a quienes se les aplicó el uso de la fuerza,SECC II. 8,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ppiflf2,Probables personas infractoras de presuntas faltas cívicas lesionadas como consecuencia de la aplicación del uso de la fuerza,SECC II. 8,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ppiflf3,Probables personas infractoras de presuntas faltas cívicas fallecidas como consecuencia de la aplicación del uso de la fuerza,SECC II. 8,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

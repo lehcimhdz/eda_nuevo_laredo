@@ -1,0 +1,13 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 86,Numérico,5,0 al 99999
+rnsnni1,Existencia de áreas o espacios físicos de infraestructura en materia de ciberseguridad,SECC I. 86,Numérico,2,0 al 98
+arespa1,Módulo de información,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa2,Área directiva,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa3,Área de monitoreo de ciberseguridad,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa4,Área de investigación,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa5,Área de diseño gráfico,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa6,Laboratorio de electrónica forense,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa7,Laboratorio de malware,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa8,Centro de datos de ciberseguridad (site),SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa9,Área de archivo,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+arespa10,Otras áreas o espacios físicos de infraestructura en materia de ciberseguridad,SECC I. 86,Carácter,3,"1, NA, NSS, ND, NP, NULL"

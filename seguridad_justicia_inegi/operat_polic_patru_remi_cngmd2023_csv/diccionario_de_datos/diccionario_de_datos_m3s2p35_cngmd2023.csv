@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 35,Numérico,5,0 al 99999
+tipatrul_c,Tipos de patrullaje,SECC II. 35,Numérico,2,1 al 99
+rnsnni1,Realización del tipo de patrullaje,SECC II. 35,Numérico,2,0 al 98
+totalca1,Patrullajes realizados,SECC II. 35,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Kilómetros recorridos,SECC II. 35,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

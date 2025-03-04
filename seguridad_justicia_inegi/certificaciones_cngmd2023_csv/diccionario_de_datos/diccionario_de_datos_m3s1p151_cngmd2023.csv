@@ -1,0 +1,20 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 151,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 151,Carácter,4,0-5000
+nombre1,Nombre de las certificaciones o acreditaciones,SECC I. 151,Carácter,2500,
+nombre2,Nombre de la autoridad o asociación nacional o extranjera que otorgó la certificación o acreditación,SECC I. 151,Carácter,2500,
+anios_a,Año de entrada en vigor (aaaa),SECC I. 151,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+anios_b,Año de vencimiento - Año (aaaa),SECC I. 151,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+indefini,Año de vencimiento - Indefinido,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev1,Rubros o aspectos evaluados - Reclutamiento y selección del personal,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev2,Rubros o aspectos evaluados - Organización y desarrollo profesional,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev3,Rubros o aspectos evaluados - Responsabilidad policial,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev4,Rubros o aspectos evaluados - Actuación profesional,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev5,Rubros o aspectos evaluados - Infraestructura,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev6,Rubros o aspectos evaluados - Equipamiento o tecnología,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev7,Rubros o aspectos evaluados - Sistemas de información y/o comunicación,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev8,Rubros o aspectos evaluados - Prevención del delito,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev9,Rubros o aspectos evaluados - Inteligencia y/o análisis criminal,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev10,Rubros o aspectos evaluados - Tránsito y vialidad,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev11,Rubros o aspectos evaluados - Otro rubro o aspecto,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+ruasev12,Rubros o aspectos evaluados - No identificado,SECC I. 151,Carácter,3,"1, NA, NSS, ND, NP, NULL"

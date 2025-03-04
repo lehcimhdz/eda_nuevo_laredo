@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 20,Numérico,5,0 al 99999
+tpodeten_a,Tipo de detención,SECC II. 20,Numérico,1,1 al 9
+sexostt,Total,SECC II. 20,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC II. 20,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC II. 20,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos3,No identificado,SECC II. 20,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexosne,No especificado,SECC II. 20,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

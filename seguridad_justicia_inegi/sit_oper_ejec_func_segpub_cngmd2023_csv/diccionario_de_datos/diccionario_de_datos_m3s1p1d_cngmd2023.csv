@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 1,Numérico,5,0 al 99999
+institsp_b,Instituciones,SECC I. 1,Numérico,1,1 al 9
+rnsnni1,Participación en el ejercicio de la función de seguridad pública,SECC I. 1,Numérico,2,0 al 98
+instregu_d,Tipo de instrumento regulatorio,SECC I. 1,Numérico,2,0 al 98
+anio_a,Año de entrada en operaciones - Año (aaaa),SECC I. 1,Carácter,4,"2000-2090, NA, NSS, ND, NP, NULL"
+indefi_a,Año de entrada en operaciones - No identificado,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+anio_b,Año de cierre de operaciones - Año (aaaa),SECC I. 1,Carácter,4,"2000-2090, NA, NSS, ND, NP, NULL"
+indefi_b,Año de cierre de operaciones - Indefinido,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"

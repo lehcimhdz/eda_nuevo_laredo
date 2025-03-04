@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 23,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 23,Numérico,1,1 al 2
+pprfue1,Probables personas responsables de presuntos delitos a quienes se les aplicó el uso de la fuerza,SECC II. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pprfue2,Probables personas responsables de presuntos delitos lesionadas como consecuencia de la aplicación del uso de la fuerza,SECC II. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pprfue3,Probables personas responsables de presuntos delitos fallecidas como consecuencia de la aplicación del uso de la fuerza,SECC II. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

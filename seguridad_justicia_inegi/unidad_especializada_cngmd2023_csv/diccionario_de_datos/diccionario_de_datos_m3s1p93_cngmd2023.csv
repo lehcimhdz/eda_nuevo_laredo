@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 93,Numérico,5,0 al 99999
+medirecp_a,Medios de recepción,SECC I. 93,Numérico,2,1 al 10
+totalca1,Reportes sobre incidentes cibernéticos atendidos,SECC I. 93,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

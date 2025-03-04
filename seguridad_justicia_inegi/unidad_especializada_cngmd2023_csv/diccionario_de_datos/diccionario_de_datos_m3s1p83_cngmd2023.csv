@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 83,Numérico,5,0 al 99999
+regiadmi_h,Registros administrativos de las actuaciones realizadas durante la investigación de delitos,SECC I. 83,Numérico,1,1 al 4
+rnspni1,Existencia de registro administrativo,SECC I. 83,Numérico,2,0 al 98
+anios_a,Identificación y caracterización del registro administrativo - Año de creación (aaaa),SECC I. 83,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+periactu_b,Identificación y caracterización del registro administrativo - Periodicidad de actualización,SECC I. 83,Numérico,3,0 al 998
+siregadm_b,Identificación y caracterización del registro administrativo - Situación del registro administrativo,SECC I. 83,Numérico,2,0 al 98

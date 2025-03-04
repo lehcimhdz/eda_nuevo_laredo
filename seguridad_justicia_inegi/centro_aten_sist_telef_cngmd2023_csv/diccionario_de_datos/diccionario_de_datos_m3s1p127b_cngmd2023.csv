@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 127,Numérico,5,0 al 99999
+sistelef_d,Sistemas telefónicos de emergencias,SECC I. 127,Numérico,1,1 al 3
+rnspni1,Existencia del sistema telefónico de emergencias,SECC I. 127,Numérico,2,0 al 98
+llamadtt,Total,SECC I. 127,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+llamad1,Llamadas procedentes (que implicaron un proceso de atención),SECC I. 127,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+llamad2,"Llamadas improcedentes(falsas, bromas, incompletas u otras con características similares)",SECC I. 127,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+llamad3,Otro tipo de llamada,SECC I. 127,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+llamadne,No especificado,SECC I. 127,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

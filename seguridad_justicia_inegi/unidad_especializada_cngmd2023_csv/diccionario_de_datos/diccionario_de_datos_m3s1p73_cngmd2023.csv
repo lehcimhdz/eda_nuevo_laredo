@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 73,Numérico,5,0 al 99999
+tecnutil_b,Técnicas utilizadas,SECC I. 73,Numérico,2,1 al 99
+siaplica,Indicativo de que si aplica o si fue seleccionado el rubro correspondiente,SECC I. 73,Carácter,3,"1, NA, NSS, ND, NP, NULL"

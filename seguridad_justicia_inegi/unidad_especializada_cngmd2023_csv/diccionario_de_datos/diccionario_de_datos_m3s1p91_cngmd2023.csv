@@ -1,0 +1,18 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 91,Numérico,5,0 al 99999
+ciberrtt,Total,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr1,Amenazas,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr2,Delitos contra la libertad de expresión,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr3,Desaparición forzada de personas,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr4,Extorsión,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr5,Feminicidio,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr6,Fraude,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr7,Personas desaparecidas,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr8,Pornografía infantil,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr9,Secuestro,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr10,Tráfico de indocumentados,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr11,Trata de personas,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr12,Comercio de narcóticos,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr13,"Tráfico ilícito de armas, explosivos y otros materiales destructivos",SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr14,Otro motivo,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+ciberr15,No identificado,SECC I. 91,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

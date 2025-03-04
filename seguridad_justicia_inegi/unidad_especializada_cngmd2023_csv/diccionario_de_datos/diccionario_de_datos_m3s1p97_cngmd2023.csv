@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 97,Numérico,5,0 al 99999
+hechdeli_a,Tipo de hechos delictivos,SECC I. 97,Numérico,1,1 al 9
+rnsnni1,Presentación de alguna denuncia ante el Ministerio Público derivado del monitoreo electrónico realizado,SECC I. 97,Numérico,2,0 al 98
+totalca1,Denuncias presentadas,SECC I. 97,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

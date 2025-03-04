@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 114,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 114,Carácter,4,0-5000
+nombre1,Nombre los cuarteles de policía,SECC I. 114,Carácter,2500,
+colonia1,Colonia,SECC I. 114,Carácter,2500,
+latitud1,Latitud,SECC I. 114,Carácter,2500,
+longitu1,Longitud,SECC I. 114,Carácter,2500,
+correo1,Correo electrónico de contacto,SECC I. 114,Carácter,2500,
+telefo1,Número telefónico de contacto (diez dígitos),SECC I. 114,Carácter,2500,

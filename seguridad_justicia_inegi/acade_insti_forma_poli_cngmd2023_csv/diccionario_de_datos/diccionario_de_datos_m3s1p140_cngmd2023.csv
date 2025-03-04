@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 140,Numérico,5,0 al 99999
+espafisc_b,Áreas o espacios físicos de infraestructura,SECC I. 140,Numérico,2,1 al 99
+siaplica,Indicativo de que si aplica o si fue seleccionado el rubro correspondiente,SECC I. 140,Carácter,3,"1, NA, NSS, ND, NP, NULL"

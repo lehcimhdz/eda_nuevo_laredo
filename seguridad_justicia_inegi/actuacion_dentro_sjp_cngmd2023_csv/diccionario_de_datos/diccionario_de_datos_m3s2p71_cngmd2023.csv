@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 71,Numérico,5,0 al 99999
+accmedsu_a,Tipo de acciones relacionadas con medidas cautelares y suspensión condicional del proceso,SECC II. 71,Numérico,1,1 al 5
+rnsnni1,Facultada para su realización,SECC II. 71,Numérico,2,0 al 98
+totalca1,Acciones relacionadas con medidas cautelares y suspensión condicional del proceso realizadas,SECC II. 71,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

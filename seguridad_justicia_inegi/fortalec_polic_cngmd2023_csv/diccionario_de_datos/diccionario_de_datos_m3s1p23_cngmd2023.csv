@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 23,Numérico,5,0 al 99999
+listtema_o,Temas,SECC I. 23,Numérico,3,101 al 999
+norealiz,Indicativo de No realizaron acciones para el rubro correspondiente,SECC I. 23,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+accfor1,Acciones formativas impartidas,SECC I. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+accfor2,Acciones formativas impartidas y concluidas,SECC I. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexostt,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - Total,SECC I. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - Hombres,SECC I. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexosne,Personal adscrito a la institución encargada de la función de seguridad pública capacitado - No especificado,SECC I. 23,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

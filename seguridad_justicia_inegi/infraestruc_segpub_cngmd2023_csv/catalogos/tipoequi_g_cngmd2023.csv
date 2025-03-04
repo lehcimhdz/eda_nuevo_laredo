@@ -1,0 +1,17 @@
+tipoequi_g,descrip
+10,Cámara Gesell
+20,Cámaras de sensor de movimiento
+30,Cámaras de reconocimiento de placas vehiculares (LPR)
+41,Detectores de metal - Fijos
+42,Detectores de metal - Móviles
+50,Detectores de narcóticos y/o estupefacientes
+60,Equipos para medir el nivel de alcohol en la sangre (alcoholímetros)
+70,Grabadora de audio y video
+80,Radares o pistolas-radar de velocidad
+90,Radio de comunicación digital troncalizado (MATRA / EADS)
+101,Equipo para registro de datos biométricos - Escáner de huella dactilar y/o geometría de la mano
+102,Equipo para registro de datos biométricos - Escáner de iris y/o retina
+103,Equipo para registro de datos biométricos - Cámara de reconocimiento facial
+104,Equipo para registro de datos biométricos - Equipo para el reconocimiento de voz
+105,Equipo para registro de datos biométricos - Equipo para el reconocimiento ADN
+110,Otro tipo de equipamiento

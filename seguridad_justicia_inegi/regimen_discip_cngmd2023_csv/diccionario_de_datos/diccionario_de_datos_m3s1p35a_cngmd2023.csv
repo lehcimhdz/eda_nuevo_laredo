@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 35,Numérico,5,0 al 99999
+rnspni1,Existencia de un catálogo de faltas o infracciones disciplinarias y sanciones o correctivos disciplinarios en la Unidad de Asuntos Internos u homóloga,SECC I. 35,Numérico,2,0 al 98
+dirurl1,Sitio donde se encontraba disponible el catálogo (URL),SECC I. 35,Carácter,2500,

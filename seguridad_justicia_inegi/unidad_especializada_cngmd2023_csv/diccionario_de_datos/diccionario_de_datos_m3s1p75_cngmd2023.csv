@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 75,Numérico,5,0 al 99999
+rnspni1,Existencia de alguna unidad de investigación u homóloga en la institución encargada de la función de seguridad pública,SECC I. 75,Numérico,2,0 al 98
+anios_a,Año de creación (aaaa),SECC I. 75,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+nombre1,Nombre,SECC I. 75,Carácter,2500,

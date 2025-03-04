@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 50,Numérico,5,0 al 99999
+inftrans_d,Tipo de infracción de tránsito,SECC II. 50,Numérico,2,1 al 46
+totalca1,Infracciones de tránsito registradas durante el año 2022,SECC II. 50,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

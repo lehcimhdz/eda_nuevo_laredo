@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 28,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 28,Numérico,1,1 al 2
+rnsnni1,Facultad para realizar aseguramientos de armas,SECC II. 28,Numérico,2,0 al 98

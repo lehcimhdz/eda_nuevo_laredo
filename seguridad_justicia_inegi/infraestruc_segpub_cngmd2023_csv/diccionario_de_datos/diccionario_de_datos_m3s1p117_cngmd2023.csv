@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 117,Numérico,5,0 al 99999
+botpanic_b,Tipo de botones de pánico,SECC I. 117,Numérico,1,1 al 6
+rnsnni1,Existencia del tipo de botón de pánico,SECC I. 117,Numérico,2,0 al 98
+totalca1,Botones de pánico,SECC I. 117,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Ocasiones que fueron activados,SECC I. 117,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

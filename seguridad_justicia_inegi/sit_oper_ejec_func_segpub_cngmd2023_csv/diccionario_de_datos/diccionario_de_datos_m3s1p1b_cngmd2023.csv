@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 1,Numérico,5,0 al 99999
+rnsnni1,Asociación con el Gobierno de la entidad federativa en materia de Mando Único Policial u homólogo,SECC I. 1,Numérico,2,0 al 98
+totalca1,Asociaciones en materia de Mando Único Policial u homólogo,SECC I. 1,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

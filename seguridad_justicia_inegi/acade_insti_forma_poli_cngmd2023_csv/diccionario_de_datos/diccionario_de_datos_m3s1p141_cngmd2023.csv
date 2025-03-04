@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 141,Numérico,5,0 al 99999
+cadinstt,Total,SECC I. 141,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+cadins1,Para cadetes,SECC I. 141,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+cadins2,Para los instructores,SECC I. 141,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

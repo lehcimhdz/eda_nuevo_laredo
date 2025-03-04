@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 65,Numérico,5,0 al 99999
+rnspni1,Existencia de alguna sectorización del territorio en la unidad de proximidad social u homóloga,SECC I. 65,Numérico,2,0 al 98
+divter1,Distritos,SECC I. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+divter2,Sectores,SECC I. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+divter3,Cuadrantes,SECC I. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+divter4,Perímetros,SECC I. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+divter5,Otro tipo de división territorial,SECC I. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

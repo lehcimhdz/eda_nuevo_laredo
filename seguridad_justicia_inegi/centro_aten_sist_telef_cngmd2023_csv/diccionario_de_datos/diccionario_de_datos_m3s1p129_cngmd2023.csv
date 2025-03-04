@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 129,Numérico,5,0 al 99999
+mecsegur_c,Mecanismos para la recepción de emergencias y/o denuncias,SECC I. 129,Numérico,1,1 al 6
+rnspni1,2021 - Existencia del mecanismo y/o instrumento,SECC I. 129,Numérico,2,0 al 98
+totalca1,2021 - Emergencias y/o denuncias recibidas,SECC I. 129,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+rnspni2,2022 - Existencia del mecanismo y/o instrumento,SECC I. 129,Numérico,2,0 al 98
+totalca2,2022 - Emergencias y/o denuncias recibidas,SECC I. 129,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

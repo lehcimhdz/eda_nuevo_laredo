@@ -1,0 +1,19 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 17,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 17,Numérico,1,1 al 2
+percontt,Total,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon1,Personas físicas - Hombres - Mayores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon2,Personas físicas - Hombres - Menores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon3,Personas físicas - Hombres - No identificado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon4,Personas físicas - Mujeres - Mayores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon5,Personas físicas - Mujeres - Menores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon6,Personas físicas - Mujeres - No identificado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon7,Personas físicas - No identificado - Mayores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon8,Personas físicas - No identificado - Menores de edad,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon9,Personas físicas - No identificado - No identificado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon10,Personas morales - Sector público,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon11,Personas morales - Sector privado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon12,Personas morales - No identificado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon13,Otro tipo de víctima,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+percon14,No identificada,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+perconne,No especificado,SECC II. 17,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

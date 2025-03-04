@@ -1,0 +1,22 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 26,Numérico,5,0 al 99999
+bienjuri_b,Bien jurídico,SECC II. 26,Numérico,2,1 al 99
+tipdelit_e,Tipo de delito,SECC II. 26,Numérico,6,10100 al 999999
+mymenitt,Total,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni1,Total - Mayores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni2,Total - Menores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni3,Total - No identificado,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymenint,Total - No especificado,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymenis1,Hombres - Subtotal,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni4,Hombres - Mayores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni5,Hombres - Menores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni6,Hombres - No identificado,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymenis2,Mujeres - Subtotal,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni8,Mujeres - Mayores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni9,Mujeres - Menores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni10,Mujeres - No identificado,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymenis3,No identificado - Subtotal,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni12,No identificado - Mayores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni13,No identificado - Menores de edad,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymeni14,No identificado - No identificado,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+mymenins,No especificado - Subtotal,SECC II. 26,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

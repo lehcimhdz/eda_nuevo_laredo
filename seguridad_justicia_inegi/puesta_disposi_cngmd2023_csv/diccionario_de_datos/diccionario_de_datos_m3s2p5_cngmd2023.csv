@@ -1,0 +1,11 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 5,Numérico,5,0 al 99999
+sitpaptt,Total,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap1,En el hogar (lugar de residencia),SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap2,En algún lugar de trabajo,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap3,En algún lugar de recreación de acceso privado,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap4,En la vía pública,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap5,En algún transporte público,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap6,En algún lugar público,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap7,En otro sitio de ocurrencia,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sitpap8,No identificado,SECC II. 5,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

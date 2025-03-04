@@ -1,0 +1,19 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 34,Numérico,5,0 al 99999
+operpoli_d,Tipo de operativos policiales,SECC II. 34,Numérico,2,1 al 99
+rnsnni1,Realización del operativo en conjunto con otras autoridades,SECC II. 34,Numérico,2,0 al 98
+auoppott,Total,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo1,Secretaría de la Defensa Nacional,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo2,Secretaría de Marina,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo3,Guardia Nacional,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo4,Fiscalía General de la República,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo5,Secretaría de Seguridad Pública u homóloga de la entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo6,Secretaría de Seguridad Pública u homóloga de otra entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo7,Fiscalía General o Procuraduría General de Justicia de la entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo8,Fiscalía General o Procuraduría General de Justicia de otra entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo9,Secretaría de Seguridad Pública u homóloga de otro municipio de la entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo10,Secretaría de Seguridad Pública u homóloga de algún municipio de otra entidad federativa,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo11,Autoridades de protección civil,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo12,Autoridades sanitarias,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo13,Autoridades aduaneras,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+auoppo14,Otra autoridad,SECC II. 34,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

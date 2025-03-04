@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 67,Numérico,5,0 al 99999
+tipcusto_a,Tipo de custodia,SECC II. 67,Numérico,1,1 al 2
+rnsnni1,Realización del tipo de custodia,SECC II. 67,Numérico,2,0 al 98
+pebisp1,Personas y/o bienes inmuebles custodiados,SECC II. 67,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pebisp2,Personal adscrito a la institución encargada de la función de seguridad pública destinado a la custodia de personas y/o de bienes inmuebles,SECC II. 67,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

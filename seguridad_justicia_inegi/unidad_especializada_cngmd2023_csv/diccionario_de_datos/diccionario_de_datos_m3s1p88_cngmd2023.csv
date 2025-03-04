@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 88,Numérico,5,0 al 99999
+personas_b,Tipo de personas,SECC I. 88,Numérico,1,1 al 3
+sexostt,Total,SECC I. 88,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I. 88,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I. 88,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos3,No identificado,SECC I. 88,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

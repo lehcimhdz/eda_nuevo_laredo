@@ -1,0 +1,13 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 121,Numérico,5,0 al 99999
+eqinfo9,Multifuncionales,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo10,Servidores,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo11,Tabletas electrónicas,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo1,Computadoras - Total,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo2,Computadoras - Personales (de escritorio),SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo3,Computadoras - Portátiles,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo4,Computadoras - No especificado,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo5,Impresoras - Total,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo6,Impresoras - Para uso personal,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+eqinfo7,Impresoras - Para uso compartido,SECC I. 121,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+rnsnni1,Existencia de servicios de conexión remota,SECC I. 121,Numérico,2,0 al 98

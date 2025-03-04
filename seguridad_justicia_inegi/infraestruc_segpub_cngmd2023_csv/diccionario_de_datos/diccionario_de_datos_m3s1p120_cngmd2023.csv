@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 120,Numérico,5,0 al 99999
+apalin1,Líneas telefónicas - Total,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+apalin2,Líneas telefónicas - Fijas,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+apalin3,Líneas telefónicas - Móviles,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+apalin5,Aparatos telefónicos - Total,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+apalin6,Aparatos telefónicos - Fijos,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+apalin7,Aparatos telefónicos - Móviles,SECC I. 120,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

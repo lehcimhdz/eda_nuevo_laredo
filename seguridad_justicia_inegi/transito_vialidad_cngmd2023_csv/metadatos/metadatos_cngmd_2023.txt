@@ -1,0 +1,51 @@
+Identifier: MEX-INEGI.40.1200.03-CNGMD-2023
+
+Title: Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México 2023
+
+Description: INEGI. Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México 2023. SNIEG. Información de Interés Nacional.
+
+Tiene como objetivo generar información estadística y geográfica sobre la integración y funcionamientos de los ayuntamientos y de las alcaldías, así como de la gestión y desempeño de las instituciones que integran a la Administración Pública de cada municipio o demarcación territorial, específicamente en las funciones de gobierno, seguridad pública, protección civil, justicia cívica, agua potable y saneamiento, y residuos sólidos urbanos. Su finalidad es vincular los datos con el diseño, implementación, monitoreo y evaluación de las políticas públicas de alcance nacional en dichas funciones.
+
+El CNGMD 2023 presenta datos e información sobre:
+
+1. La integración del Ayuntamiento de cada municipio, así como de las comisiones y las actividades realizadas por el mismo. 
+
+2. La integración de cada alcaldía de la Ciudad de México, así como de las comisiones y las actividades realizadas por la misma.
+
+3. La estructura organizacional y los recursos humanos, presupuestales y materiales de la Administración Pública de cada municipio o demarcación territorial, así como del ejercicio de las funciones de gobierno realizadas por las instituciones que la integran.
+
+4. Los servicios públicos prestados por cada municipio o demarcación territorial, en cuanto a la forma de administración del servicio y sus principales características.
+
+5. La situación normativa y operativa de la función de seguridad pública de cada municipio, así como de la infraestructura, los recursos humanos, presupuestales y materiales de los que dispone, de ser el caso, la institución encargada de la función de seguridad pública; además del ejercicio de la función realizada por esta.
+
+6. Del marco normativo y programático de la función de protección civil de cada municipio o demarcación territorial, así como de la estructura organizacional, la capacidad operativa, los recursos humanos, presupuestales y materiales de los que dispone, de ser el caso, la unidad municipal de protección civil u homóloga; además del ejercicio de la función realizada por esta. 
+
+7. La situación normativa y operativa de la función de justicia cívica de cada municipio, así como de la infraestructura, los recursos humanos, presupuestales y materiales de los que disponen, de ser el caso, los juzgados cívicos; además del ejercicio de la función realizada por estos o, en su defecto, por las autoridades o instituciones encargadas de dicha función.
+
+8. La prestación del servicio público de agua potable y saneamiento, desde una perspectiva técnica y ambiental, para satisfacer la demanda de información sobre la gestión municipal del recurso hídrico, indispensable para la población, los ecosistemas y el desarrollo nacional.
+
+9. Las características técnicas y ambientales de la prestación de los servicios públicos de recolección, traslado, tratamiento y disposición final de residuos sólidos urbanos en los municipios y demarcaciones territoriales, favoreciendo el desarrollo de programas y políticas públicas en la materia.
+
+Note: Para georreferenciación de los datos de coordenadas geográficas se utiliza el Sistema de Referencia de Coordenadas (SCR) WGS84 (World Geodetic System 1984), cuyo formato consiste en la representación con dos cifras de latitud y longitud, en positivo para Norte y Este, y negativo para Sur y Oeste.
+
+Modified: 2024-06-21
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx 
+
+License: http://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/977/data-dictionary
+
+Keyword: "persona presidenta municipal", "personas síndicas", "personas regidoras ", "personas concejales", "persona alcalde", "personal", "sesiones de cabildo", "iniciativas presentadas discutidas y/ o aprobadas", "instituciones", "personas titulares", "presupuesto ejercido", "vehículos", "equipo informático", "planeación y evaluación", "trámites", "servcios", "programas o acciones de desarrollo social operados", "personas beneficiarias", "solicitudes de acceso a la información y de protección de datos personales", "control interno", "anticorrupción", "participación ciudadana", "servicios públicos", "contrataciones públicas", "montos", "tránsito", "vialidad", "disposiciones normativas", "catastro", "planeación y gestión territorial", "alojamientos de asistencia social", "administración de archivos y gestión documental", "corporaciones policiales", "infraestructura para la seguridad pública", "sistemas telefónicos de llamadas de emergencias", "puestas a disposición", "presuntas faltas cívicas", "presuntos delitos", "aseguramientos", "operativos policiales", "protección civil", "juzgados cívicos"
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2022-01-01-2022-12-31
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Bienalmente
+
+Distribution: https://www.inegi.org.mx/programas/cngmd/2023/

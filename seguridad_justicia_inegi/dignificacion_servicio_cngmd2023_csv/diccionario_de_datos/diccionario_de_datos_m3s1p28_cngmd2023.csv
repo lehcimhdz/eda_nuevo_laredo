@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 28,Numérico,5,0 al 99999
+elemunif_b,Elementos de uniforme policial,SECC I. 28,Numérico,2,1 al 16
+rnsnni1,Otorgamiento al personal adscrito a las corporaciones policiales de la institución encargada de la función de seguridad pública,SECC I. 28,Numérico,2,0 al 98
+totalca1,Elementos de uniforme otorgados,SECC I. 28,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+frecuenc_e,Frecuencia con la que se otorgó al personal adscrito a las corporaciones policiales de la institución encargada de la función de seguridad pública,SECC I. 28,Numérico,3,0 al 998

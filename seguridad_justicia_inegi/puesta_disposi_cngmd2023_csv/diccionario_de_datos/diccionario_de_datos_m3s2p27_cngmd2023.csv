@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 27,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 27,Numérico,1,1 al 2
+forcomtt,Total,SECC II. 27,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forcom1,Doloso,SECC II. 27,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forcom2,Culposo,SECC II. 27,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forcom3,No identificado,SECC II. 27,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forcomne,No especificado,SECC II. 27,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

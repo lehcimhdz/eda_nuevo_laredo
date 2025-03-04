@@ -1,0 +1,26 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 133,Numérico,5,0 al 99999
+regiadmi_g,Registros administrativos en materia de seguridad pública,SECC I. 133,Numérico,1,1 al 7
+rnspni1,Existencia del registro administrativo,SECC I. 133,Numérico,2,0 al 98
+anios_a,Identificación y caracterización del registro administrativo - Año de creación (aaaa),SECC I. 133,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+periactu_b,Identificación y caracterización del registro administrativo - Periodicidad de actualización,SECC I. 133,Numérico,3,0 al 998
+siregadm_b,Identificación y caracterización del registro administrativo - Situación del registro administrativo,SECC I. 133,Numérico,2,0 al 98
+tillam1,Tipo de información recopilada - Cantidad de llamadas recibidas,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+tillam2,Tipo de información recopilada - Estatus de las llamadas recibidas,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+tillam3,Tipo de información recopilada - Tipo de incidente reportado,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+tillam4,Tipo de información recopilada - Sexo de la persona que reporta el incidente,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+tillam5,Tipo de información recopilada - Otro tipo de información,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+tillam6,Tipo de información recopilada - No identificado,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto1,Autoridades con las que se compartió la información registrada - Juzgados cívicos del municipio u otros municipios de la entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto2,Autoridades con las que se compartió la información registrada - Juzgados cívicos de otra entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto3,Autoridades con las que se compartió la información registrada - Secretaría de Seguridad Pública u homóloga de algún municipio de la entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto4,Autoridades con las que se compartió la información registrada - Secretaría de Seguridad Pública u homóloga de algún municipio de otra entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto5,Autoridades con las que se compartió la información registrada - Secretaría de Seguridad Pública u homóloga de la entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto6,Autoridades con las que se compartió la información registrada - Secretaría de Seguridad Pública u homóloga de otra entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto7,Autoridades con las que se compartió la información registrada - Secretaría de Seguridad y Protección Ciudadana (incluye Guardia Nacional),SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto8,Autoridades con las que se compartió la información registrada - Fiscalía General o Procuraduría General de Justicia de la entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto9,Autoridades con las que se compartió la información registrada - Fiscalía General o Procuraduría General de Justicia de otra entidad federativa,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto10,Autoridades con las que se compartió la información registrada - Fiscalía General de la República,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto11,Autoridades con las que se compartió la información registrada - Otra autoridad,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto12,Autoridades con las que se compartió la información registrada - No se compartía la información registrada,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+raauto13,Autoridades con las que se compartió la información registrada - No identificado,SECC I. 133,Carácter,3,"1, NA, NSS, ND, NP, NULL"

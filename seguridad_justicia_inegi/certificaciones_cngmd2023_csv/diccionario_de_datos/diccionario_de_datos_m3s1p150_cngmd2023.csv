@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 150,Numérico,5,0 al 99999
+rnsnni1,Existencia de alguna certificación o acreditación,SECC I. 150,Numérico,2,0 al 98
+totalca1,Certificaciones o acreditaciones,SECC I. 150,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

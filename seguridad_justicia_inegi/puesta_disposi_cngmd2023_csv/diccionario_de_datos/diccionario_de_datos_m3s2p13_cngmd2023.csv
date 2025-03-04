@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 13,Numérico,5,0 al 99999
+bienjuri_b,Bien jurídico,SECC II. 13,Numérico,2,1 al 99
+tipdelit_e,Tipo de delito,SECC II. 13,Numérico,6,10100 al 999999
+totalca1,Presuntos delitos registrados durante el año 2021,SECC II. 13,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Presuntos delitos registrados durante el año 2022,SECC II. 13,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

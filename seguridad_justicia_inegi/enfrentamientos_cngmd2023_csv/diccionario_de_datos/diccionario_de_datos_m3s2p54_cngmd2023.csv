@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 54,Numérico,5,0 al 99999
+paraistt,Total,SECC II. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+parais1,Participación aislada de la institución encargada de la función de seguridad pública,SECC II. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+parais2,Participación de la institución encargada de la función de seguridad pública con otras autoridades,SECC II. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+parais3,No identificado,SECC II. 54,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

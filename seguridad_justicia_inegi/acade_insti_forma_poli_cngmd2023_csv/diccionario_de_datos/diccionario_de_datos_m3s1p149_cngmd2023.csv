@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 149,Numérico,5,0 al 99999
+nucfortt,Total,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor1,Desarrollo y acondicionamiento físico,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor2,Función policial,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor3,Marco normativo de la función policial y protocolos de actuación,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor4,Prevención y vinculación social,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor5,Técnicas y tácticas policiales,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+nucfor6,Formación complementaria,SECC I. 149,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

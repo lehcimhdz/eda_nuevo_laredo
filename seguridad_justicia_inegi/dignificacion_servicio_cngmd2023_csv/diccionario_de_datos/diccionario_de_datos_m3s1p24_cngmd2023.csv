@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 24,Numérico,5,0 al 99999
+preslab_e,Prestación laboral,SECC I. 24,Numérico,2,1 al 99
+rnsnni1,Previsión de la prestación laboral en la legislación laboral y/o administrativa aplicable,SECC I. 24,Numérico,2,0 al 98
+rnsnni2,El personal adscrito a la institución encargada de la función de seguridad pública contó con la prestación laboral,SECC I. 24,Numérico,2,0 al 98
+sexostt,Total,SECC I. 24,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I. 24,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I. 24,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexosne,No especificado,SECC I. 24,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,13 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 119,Numérico,5,0 al 99999
+vehicttt,Total,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict1,Automóviles,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict2,Camiones y camionetas,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict3,Motocicletas y cuatrimotos,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict4,Bicicletas,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict5,Helicópteros,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict6,Aviones,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict7,Lanchas,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict8,Drones,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehict9,Otro tipo de vehículo,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehictne,No especificado,SECC I. 119,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

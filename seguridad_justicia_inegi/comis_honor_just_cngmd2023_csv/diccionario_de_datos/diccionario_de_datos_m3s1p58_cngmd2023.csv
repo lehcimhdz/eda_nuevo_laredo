@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 58,Numérico,5,0 al 99999
+rnspni1,Existencia de un reglamento sobre la organización y funcionamiento de la Comisión de Honor y Justicia u homóloga,SECC I. 58,Numérico,2,0 al 98
+dirurl1,Sitio donde se encontraba disponible el reglamento (URL),SECC I. 58,Carácter,2500,

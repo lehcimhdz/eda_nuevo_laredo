@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 82,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 82,Numérico,1,1 al 2
+rnsnni1,Facultad de la unidad de investigación u homóloga para iniciar carpetas de investigación hasta su judicialización,SECC I. 82,Numérico,2,0 al 98
+totalca1,Carpetas de investigación iniciadas,SECC I. 82,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

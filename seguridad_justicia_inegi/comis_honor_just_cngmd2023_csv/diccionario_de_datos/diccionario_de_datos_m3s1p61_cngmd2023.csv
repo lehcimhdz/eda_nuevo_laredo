@@ -1,0 +1,26 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 61,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 61,Numérico,1,1 al 2
+rnsnni1,Realización de ceremonias de reconocimiento al mérito por la Comisión de Honor y Justicia u homóloga,SECC I. 61,Numérico,2,0 al 98
+totalca1,Ceremonias realizadas,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimutt,Total,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu1,Total - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu2,Total - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus1,Condecoraciones - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu3,Condecoraciones - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu4,Condecoraciones - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus2,Menciones Honoríficas - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu6,Menciones Honoríficas - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu7,Menciones Honoríficas - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus3,Distinciones - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu9,Distinciones - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu10,Distinciones - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus4,Citaciones - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu12,Citaciones - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu13,Citaciones - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus5,Recompensas - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu15,Recompensas - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu16,Recompensas - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimus6,Otro tipo de estímulo - Subtotal,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu18,Otro tipo de estímulo - Hombres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+estimu19,Otro tipo de estímulo - Mujeres,SECC I. 61,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

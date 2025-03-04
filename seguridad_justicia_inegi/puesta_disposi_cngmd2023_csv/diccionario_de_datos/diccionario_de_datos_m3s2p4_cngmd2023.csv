@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 4,Numérico,5,0 al 99999
+contrave_b,Grupo de afectación,SECC II. 4,Numérico,1,1 al 9
+faltcivi_e,Tipo de falta cívica,SECC II. 4,Numérico,6,10100 al 999999
+totalca1,Presuntas faltas cívicas registradas durante el año 2021,SECC II. 4,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Presuntas faltas cívicas registradas durante el año 202,SECC II. 4,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

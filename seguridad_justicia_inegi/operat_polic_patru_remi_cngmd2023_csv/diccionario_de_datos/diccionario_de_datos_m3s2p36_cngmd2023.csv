@@ -1,0 +1,12 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 36,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 36,Numérico,1,1 al 2
+rnsnni1,Facultad para realizar remisiones a depósito vehicular,SECC II. 36,Numérico,2,0 al 98
+vehremtt,Total,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem1,Automóviles,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem2,Camionetas,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem3,Camiones,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem4,Motocicletas,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem5,Cuatrimotos,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehrem6,Otro tipo de vehículo,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+vehremne,No especificado,SECC II. 36,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

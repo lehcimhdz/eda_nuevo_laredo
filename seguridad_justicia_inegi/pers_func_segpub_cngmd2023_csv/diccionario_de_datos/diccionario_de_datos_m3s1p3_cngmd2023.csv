@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 3,Numérico,5,0 al 99999
+gradorga_b,Grado de organización jerárquica,SECC I. 3,Numérico,2,11 al 99
+sexostt,Total,SECC I. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexosne,No especificado,SECC I. 3,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

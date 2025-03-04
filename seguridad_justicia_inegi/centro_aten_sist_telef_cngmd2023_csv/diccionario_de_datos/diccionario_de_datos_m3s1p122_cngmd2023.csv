@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 122,Numérico,5,0 al 99999
+rnsnni1,Existencia de algún centro de atención de llamadas de emergencia establecido en el municipio,SECC I. 122,Numérico,2,0 al 98
+totalca1,Centros de atención de llamadas de emergencia establecidos,SECC I. 122,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

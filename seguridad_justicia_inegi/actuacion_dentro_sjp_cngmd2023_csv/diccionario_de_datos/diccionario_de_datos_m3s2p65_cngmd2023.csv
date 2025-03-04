@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 65,Numérico,5,0 al 99999
+tinspecc_b,Tipo de inspecciones,SECC II. 65,Numérico,1,1 al 9
+rnsnni1,Realización del tipo de inspección,SECC II. 65,Numérico,2,0 al 98
+resulttt,Total,SECC II. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+result1,Puesta a disposición ante la autoridad de Justicia Cívica,SECC II. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+result2,Puesta a disposición ante el Ministerio Público,SECC II. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+result3,Otro tipo de resultado,SECC II. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+result4,No identificado,SECC II. 65,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

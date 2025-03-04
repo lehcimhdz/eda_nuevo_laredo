@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 96,Numérico,5,0 al 99999
+insegitt,Total,SECC I. 96,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+insegi1,Incidentes de seguridad informáticos que afectaron al sector privado,SECC I. 96,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+insegi2,Incidentes de seguridad informáticos que afectaron al sector público,SECC I. 96,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+insegi3,No identificado,SECC I. 96,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

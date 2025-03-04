@@ -1,0 +1,12 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 36,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 36,Numérico,1,1 al 2
+elinsp1,Declaraciones de víctimas,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp2,Declaraciones de pares (declaraciones de otra persona servidora pública adscrita a la institución encargada de la función de seguridad pública del municipio),SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp3,Videos recuperados de cámaras de vigilancia,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp4,Videos recuperados de cámaras corporales,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp5,Videos recuperados de cámaras de video y/o teléfonos inteligentes de las y los ciudadanos,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp6,Operaciones encubiertas para probar la integridad del personal,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp7,Otros elementos o insumos,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp8,No se sancionó a alguna persona servidora pública con motivo de la aplicación de la normatividad en materia de régimen disciplinario,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+elinsp9,No identificado,SECC I. 36,Carácter,3,"1, NA, NSS, ND, NP, NULL"

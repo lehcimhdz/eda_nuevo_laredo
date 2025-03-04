@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 2,Numérico,5,0 al 99999
+objetos_a,Tipo de objetos,SECC II. 2,Numérico,2,11 al 90
+rnsnni1,2021 - Registro de su puesta disposición,SECC II. 2,Numérico,2,0 al 98
+unidmedi_h,2021 - Unidad de medida para su contabilización,SECC II. 2,Numérico,2,0 al 98
+totalca1,2021 - Objetos puestos a disposición,SECC II. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+rnsnni2,2022 - Registro de su puesta disposición,SECC II. 2,Numérico,2,0 al 98
+unidmedi_m,2022 - Unidad de medida para su contabilización,SECC II. 2,Numérico,2,0 al 98
+totalca2,2022 - Objetos puestos a disposición,SECC II. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

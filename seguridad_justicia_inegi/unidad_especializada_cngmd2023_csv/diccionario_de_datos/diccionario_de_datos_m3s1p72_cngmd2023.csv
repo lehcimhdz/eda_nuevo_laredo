@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 72,Numérico,5,0 al 99999
+insuutil_b,Insumos utilizados,SECC I. 72,Numérico,2,1 al 99
+siaplica,Indicativo de que si aplica o si fue seleccionado el rubro correspondiente,SECC I. 72,Carácter,3,"1, NA, NSS, ND, NP, NULL"

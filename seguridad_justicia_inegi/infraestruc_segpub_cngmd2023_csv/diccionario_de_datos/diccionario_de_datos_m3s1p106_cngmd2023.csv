@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 106,Numérico,5,0 al 99999
+infrapol_b,Tipo de infraestructura,SECC I. 106,Numérico,2,10 al 99
+inffuntt,Total,SECC I. 106,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+inffun1,En funcionamiento,SECC I. 106,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+inffun2,Fuera de funcionamiento,SECC I. 106,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+inffunne,No especificado,SECC I. 106,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

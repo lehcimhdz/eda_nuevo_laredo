@@ -1,0 +1,21 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 48,Numérico,5,0 al 99999
+maymenor_c,Condición de edad,SECC II. 48,Numérico,1,1 al 9
+pdnlsxtt,Total,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx1,Total - Hombres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx2,Total - Mujeres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx3,Total - No identificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsxs1,Personas desaparecidas - Subtotal,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx4,Personas desaparecidas - Hombres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx5,Personas desaparecidas - Mujeres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx6,Personas desaparecidas - No identificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsxs2,Personas no localizadas - Subtotal,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx8,Personas no localizadas - Hombres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx9,Personas no localizadas - Mujeres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx10,Personas no localizadas - No identificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsxs3,No identificado - Subtotal,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx12,No identificado - Hombres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx13,No identificado - Mujeres,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx14,No identificado - No identificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsx15,No identificado - No especificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+pdnlsxni,No especificado - No identificado,SECC II. 48,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

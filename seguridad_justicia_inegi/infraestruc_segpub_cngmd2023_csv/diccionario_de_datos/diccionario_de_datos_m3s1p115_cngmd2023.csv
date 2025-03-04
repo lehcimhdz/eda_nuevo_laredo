@@ -1,0 +1,21 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 115,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 115,Carácter,4,0-5000
+nombre1,Nombre de los cuarteles de policía,SECC I. 115,Carácter,2500,
+rnsnni1,Existencia de áreas o espacios físicos de infraestructura especializada para el personal,SECC I. 115,Numérico,2,0 al 98
+infper1,Dormitorios - Hombres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper2,Dormitorios - Mujeres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper3,Dormitorios - Mixto,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper4,Vestidores - Hombres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper5,Vestidores - Mujeres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper6,Vestidores - Mixto,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper7,Lockers - Hombres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper8,Lockers - Mujeres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper9,Lockers - Mixto,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper10,Lugar para aseo personal (regaderas) - Hombres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper11,Lugar para aseo personal (regaderas) - Mujeres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper12,Lugar para aseo personal (regaderas) - Mixto,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper13,Baños - Hombres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper14,Baños - Mujeres,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper15,Baños - Mixto,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+infper16,Salas de lactancia,SECC I. 115,Carácter,3,"1, NA, NSS, ND, NP, NULL"

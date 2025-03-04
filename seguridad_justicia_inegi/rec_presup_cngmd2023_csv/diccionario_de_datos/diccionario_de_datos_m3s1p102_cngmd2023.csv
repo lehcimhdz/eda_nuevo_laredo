@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 102,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 102,Numérico,1,1 al 2
+rnsnni1,Recepción por parte del Gobierno Federal de alguna aportación,SECC I. 102,Numérico,2,0 al 98
+forfastt,Total,SECC I. 102,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forfas1,Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal (ahora Ciudad de México) (FORTAMUN),SECC I. 102,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forfas2,Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal (FASP),SECC I. 102,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+forfas3,Otro fondo o subsidio,SECC I. 102,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

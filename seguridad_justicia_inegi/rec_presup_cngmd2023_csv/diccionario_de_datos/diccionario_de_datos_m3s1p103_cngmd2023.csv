@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 103,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 103,Numérico,1,1 al 2
+rnsnni1,Recepción por parte del sector privado de alguna aportación,SECC I. 103,Numérico,2,0 al 98
+totalca1,Monto aportado,SECC I. 103,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

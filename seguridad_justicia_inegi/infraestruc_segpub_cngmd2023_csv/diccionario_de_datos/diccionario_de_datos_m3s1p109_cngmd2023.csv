@@ -1,0 +1,13 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 109,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 109,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 109,Carácter,2500,
+rnsnni1,Existencia de algún depósito de armas,SECC I. 109,Numérico,2,0 al 98
+eldear1,Espacio exclusivo para el resguardo de armas,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear2,Estantería exclusiva para el resguardo de armas,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear3,Sistema de acceso restringido,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear4,Sistema de identificación por biométricos,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear5,Cámara de circuito cerrado de televisión (CCTV),SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear6,Personal de vigilancia permanente,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear7,Arenero para arme y desarme,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+eldear8,Otro elemento del depósito,SECC I. 109,Carácter,3,"1, NA, NSS, ND, NP, NULL"

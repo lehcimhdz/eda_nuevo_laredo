@@ -1,0 +1,3 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 32,Numérico,5,0 al 99999
+rnsnni1,"Realización de operativos policiales, individualmente o en conjunto con otras instituciones, para mantener el orden y garantizar la seguridad pública",SECC II. 32,Numérico,2,0 al 98

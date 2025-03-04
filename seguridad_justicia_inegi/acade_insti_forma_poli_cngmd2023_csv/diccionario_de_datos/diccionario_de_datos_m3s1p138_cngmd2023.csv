@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 138,Numérico,5,0 al 99999
+rnsnni1,Existencia de alguna academia o instituto de formación policial establecida en el municipio,SECC I. 138,Numérico,2,0 al 98
+anios_a,Año de creación (aaaa),SECC I. 138,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+nombre1,Nombre,SECC I. 138,Carácter,2500,
+instresp_f,Institución responsable de su operación,SECC I. 138,Numérico,2,0 al 98

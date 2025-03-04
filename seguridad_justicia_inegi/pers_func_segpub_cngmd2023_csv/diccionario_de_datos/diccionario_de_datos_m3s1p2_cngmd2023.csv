@@ -1,0 +1,13 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 2,Numérico,5,0 al 99999
+nombre1,Nombre de la institución encargada de la función de seguridad pública,SECC I. 2,Carácter,2500,
+sexo_i,Sexo,SECC I. 2,Numérico,2,0 al 98
+edades,Edad (años),SECC I. 2,Carácter,3,"18-99, NA, NSS, ND, NP, NULL"
+totalca1,Ingresos brutos mensuales (pesos),SECC I. 2,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+gdoestud_k,Nivel de escolaridad,SECC I. 2,Numérico,2,0 al 98
+estagrad_e,Estatus del nivel de escolaridad,SECC I. 2,Numérico,2,0 al 98
+institsp_c,Institución de procedencia,SECC I. 2,Numérico,3,0 al 998
+antigu_a,Antigüedad en el servicio público (años),SECC I. 2,Carácter,3,"0-100, NA, NSS, ND, NP, NULL"
+antigu_b,Antigüedad en el cargo (años),SECC I. 2,Carácter,3,"0-100, NA, NSS, ND, NP, NULL"
+puebindi_j,Condición de pertenencia a pueblo indígena,SECC I. 2,Numérico,3,0 al 998
+fdesigna_m,Forma de designación,SECC I. 2,Numérico,2,0 al 98

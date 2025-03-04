@@ -1,0 +1,14 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 40,Numérico,5,0 al 99999
+faltinfr_c,Tipo de faltas o infracciones disciplinarias,SECC I. 40,Numérico,2,1 al 99
+scdisctt,Total,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc1,Amonestación,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc2,Arresto,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc3,Cambio de adscripción,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc4,"Suspensión del empleo, cargo o comisión",SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc5,Inhabilitación temporal,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc6,Destitución o remoción,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc7,Sanciones económicas,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc8,Restricción,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc9,Otro tipo de sanción o correctivo disciplinario,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+scdisc10,No identificado,SECC I. 40,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

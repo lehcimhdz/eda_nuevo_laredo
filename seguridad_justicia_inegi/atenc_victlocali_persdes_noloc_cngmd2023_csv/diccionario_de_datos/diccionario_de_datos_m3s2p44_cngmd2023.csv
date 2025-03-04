@@ -1,0 +1,21 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 44,Numérico,5,0 al 99999
+maymenor_c,Condición de edad de las personas reportadas como desaparecidas y/o no localizadas,SECC II. 44,Numérico,1,1 al 9
+reporttt,Total,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report1,Total - Hombres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report2,Total - Mujeres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report3,Total - No identificado,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+reportnt,Total - No especificado,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+reports1,Reportes de personas desaparecidas - Subtotal,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report4,Reportes de personas desaparecidas - Hombres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report5,Reportes de personas desaparecidas - Mujeres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report6,Reportes de personas desaparecidas - No identificado,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+reports2,Reportes de personas no localizadas - Subtotal,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report8,Reportes de personas no localizadas - Hombres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report9,Reportes de personas no localizadas - Mujeres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report10,Reportes de personas no localizadas - No identificado,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+reports3,No identificado - Subtotal,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report12,No identificado - Hombres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report13,No identificado - Mujeres,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+report14,No identificado - No identificado,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+reportns,No especificado - Subtotal,SECC II. 44,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

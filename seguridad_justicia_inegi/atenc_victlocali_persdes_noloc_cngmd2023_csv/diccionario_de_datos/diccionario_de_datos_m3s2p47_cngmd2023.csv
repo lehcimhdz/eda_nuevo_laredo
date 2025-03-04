@@ -1,0 +1,8 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 47,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 47,Numérico,1,1 al 2
+rnsnni1,Localización de personas reportadas como desaparecidas y/o no localizadas,SECC II. 47,Numérico,2,0 al 98
+reperstt,Total,SECC II. 47,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+repers1,Personas desaparecidas,SECC II. 47,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+repers2,Personas no localizadas,SECC II. 47,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+repers3,No identificado,SECC II. 47,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

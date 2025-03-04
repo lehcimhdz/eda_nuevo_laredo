@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 41,Numérico,5,0 al 99999
+grupvuln_h,Grupo vulnerable,SECC II. 41,Numérico,2,1 al 99
+sexostt,Total,SECC II. 41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC II. 41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC II. 41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos3,No identificado,SECC II. 41,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

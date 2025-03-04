@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 104,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 104,Numérico,1,1 al 2
+prpltett,Total,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+prplte1,Plataforma México,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+prplte2,Red Nacional de Radiocomunicación,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+prplte4,Sistemas de videovigilancia y geolocalización,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+prplte5,Otras plataformas tecnológicas,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+prpltene,No especificado,SECC I. 104,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

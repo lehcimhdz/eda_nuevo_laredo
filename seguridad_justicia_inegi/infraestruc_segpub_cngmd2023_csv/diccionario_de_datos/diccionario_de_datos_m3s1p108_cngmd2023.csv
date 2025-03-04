@@ -1,0 +1,18 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 108,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 108,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 108,Carácter,2500,
+rnsnni1,Existencia de áreas o espacios físicos de infraestructura especializada para el personal,SECC I. 108,Numérico,2,0 al 98
+aresex1,Vestidores - Hombres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex2,Vestidores - Mujeres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex3,Vestidores - Mixto,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex4,Lockers - Hombres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex5,Lockers - Mujeres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex6,Lockers - Mixto,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex7,Lugar para aseo personal (regaderas) - Hombres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex8,Lugar para aseo personal (regaderas) - Mujeres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex9,Lugar para aseo personal (regaderas) - Mixto,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex10,Baños - Hombres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex11,Baños - Mujeres,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex12,Baños - Mixto,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aresex13,Salas de lactancia,SECC I. 108,Carácter,3,"1, NA, NSS, ND, NP, NULL"

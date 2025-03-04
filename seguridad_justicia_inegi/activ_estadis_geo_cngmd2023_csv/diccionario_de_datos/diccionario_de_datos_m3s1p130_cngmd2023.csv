@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 130,Numérico,5,0 al 99999
+rnspni1,Existencia de alguna unidad administrativa o área encargada del desarrollo de actividades para la generación y tratamiento de información estadística y geográfica,SECC I. 130,Numérico,2,0 al 98
+rnsnni1,La unidad administrativa o área es la misma que la unidad de inteligencia y/o análisis u homóloga,SECC I. 130,Numérico,2,0 al 98
+anios_a,Año de creación (aaaa),SECC I. 130,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+nombre1,Nombre,SECC I. 130,Carácter,2500,

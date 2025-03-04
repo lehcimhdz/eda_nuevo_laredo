@@ -1,0 +1,191 @@
+tipdelit_e,descrip
+10100,Homicidio
+10200,Feminicidio
+10300,Aborto
+10400,Lesiones
+10500,Otros delitos que atentan contra la vida y la integridad corporal
+19999,No especificado
+20100,Privación de la libertad
+20200,Tráfico de menores
+20300,Retención o sustracción de menores e incapaces
+20400,Rapto
+20500,Desaparición forzada de personas
+20600,Secuestro
+20601,Secuestro - Secuestro extorsivo
+20602,Secuestro - Secuestro en calidad de rehén
+20603,Secuestro - Secuestro para causar daño
+20604,Secuestro - Secuestro exprés
+20605,Secuestro - Otro tipo de secuestro
+20606,Secuestro - No identificado
+20699,Secuestro - No especificado
+20700,Otros delitos que atentan contra la libertad personal
+29999,No especificado
+30100,Abuso sexual
+30200,Acoso sexual
+30300,Hostigamiento sexual
+30400,Violación
+30401,Violación - Violación simple
+30402,"Violación - Violación equiparada por introducir cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene"
+30403,Violación - Violación equiparada en contra de menores e incapaces
+30404,Violación - Otro tipo de violación
+30405,Violación - No identificado
+30499,Violación - No especificado
+30500,Estupro
+30600,Incesto
+30700,Otros delitos que atentan contra la libertad y la seguridad sexual
+39999,No especificado
+40100,Robo
+40101,Robo - Robo simple
+40102,Robo - Robo a casa habitación
+40103,Robo - Robo de vehículo
+40104,Robo - Robo de autopartes
+40105,Robo - Robo a transeúnte en vía pública
+40106,Robo - Robo a transeúnte en espacio abierto al público
+40107,Robo - Robo a persona en un lugar privado
+40108,Robo - Robo a transportista
+40109,Robo - Robo en transporte público individual
+40110,Robo - Robo en transporte público colectivo
+40111,Robo - Robo en transporte individual
+40112,Robo - Robo a institución bancaria
+40113,Robo - Robo a negocio
+40114,Robo - Robo de ganado
+40115,Robo - Robo de maquinaria
+40116,Robo - Robo de energía eléctrica
+40117,Robo - Otros robos
+40118,Robo - No identificado
+40199,Robo - No especificado
+40200,Delitos en materia de hidrocarburos y sus derivados
+40201,Delitos en materia de hidrocarburos y sus derivados - Sustracción de hidrocarburos y sus derivados
+40202,Delitos en materia de hidrocarburos y sus derivados - Aprovechamiento de hidrocarburos y sus derivados
+40203,Delitos en materia de hidrocarburos y sus derivados - Posesión ilícita de hidrocarburos y sus derivados
+40204,Delitos en materia de hidrocarburos y sus derivados - Otros delitos en materia de hidrocarburos y sus derivados
+40205,Delitos en materia de hidrocarburos y sus derivados - No identificado
+40299,Delitos en materia de hidrocarburos y sus derivados - No especificado
+40300,Fraude
+40400,Abuso de confianza
+40500,Extorsión
+40501,Extorsión - Extorsión cometida por vía telefónica o cualquier otro medio electrónico o de comunicación
+40502,Extorsión - Otro tipo de extorsión
+40503,Extorsión - No identificado
+40599,Extorsión - No especificado
+40600,Daño a la propiedad
+40700,Despojo
+40800,Otros delitos que atentan contra el patrimonio
+49999,No especificado
+50100,Violencia familiar
+50200,Incumplimiento de obligaciones familiares
+50300,Otros delitos contra la familia
+59999,No especificado
+60100,Delitos contra el libre desarrollo de la personalidad
+60101,Delitos contra el libre desarrollo de la personalidad - Corrupción de menores e incapaces
+60102,Delitos contra el libre desarrollo de la personalidad - Prostitución de menores e incapaces
+60103,Delitos contra el libre desarrollo de la personalidad - Pornografía infantil
+60104,Delitos contra el libre desarrollo de la personalidad - Turismo sexual
+60105,Delitos contra el libre desarrollo de la personalidad - Pederastia
+60106,Delitos contra el libre desarrollo de la personalidad - Otros delitos contra el libre desarrollo de la personalidad
+60107,Delitos contra el libre desarrollo de la personalidad - No identificado
+60199,Delitos contra el libre desarrollo de la personalidad - No especificado
+60200,Trata de personas
+60201,Trata de personas - Trata de personas con fines de explotación sexual
+60202,Trata de personas - Trata de personas con fines de trabajo o servicios forzados
+60203,Trata de personas - Trata de personas con fines de tráfico de órganos
+60204,Trata de personas - Trata de personas con otros fines
+60205,Trata de personas - No identificado
+60299,Trata de personas - No especificado
+60300,Violencia de género en todas sus modalidades distinta a la violencia familiar
+60400,Discriminación
+60500,Lenocinio
+60600,Otros delitos contra la sociedad
+69999,No especificado
+70100,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo
+70101,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - Posesión simple de narcóticos
+70102,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - Posesión con fines de comercio o suministro de narcóticos
+70103,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - Comercio de narcóticos
+70104,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - Suministro de narcóticos
+70105,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - Otros delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo
+70106,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - No identificado
+70199,Delitos contra la salud relacionados con narcóticos en su modalidad de narcomenudeo - No especificado
+70200,Delitos federales contra la salud relacionados con narcóticos
+70201,Delitos federales contra la salud relacionados con narcóticos - Producción de narcóticos
+70202,Delitos federales contra la salud relacionados con narcóticos - Transporte de narcóticos
+70203,Delitos federales contra la salud relacionados con narcóticos - Tráfico de narcóticos
+70204,Delitos federales contra la salud relacionados con narcóticos - Comercio de narcóticos
+70205,Delitos federales contra la salud relacionados con narcóticos - Suministro de narcóticos
+70206,Delitos federales contra la salud relacionados con narcóticos - Posesión de narcóticos
+70207,Delitos federales contra la salud relacionados con narcóticos - Otros delitos federales contra la salud relacionados con narcóticos
+70208,Delitos federales contra la salud relacionados con narcóticos - No identificado
+70299,Delitos federales contra la salud relacionados con narcóticos - No especificado
+70300,Evasión de presos
+70400,Delitos en materia de armas y objetos prohibidos
+70500,Delitos de delincuencia organizada
+70600,"Delitos en materia de armas, explosivos y otros materiales destructivos"
+70601,"Delitos en materia de armas, explosivos y otros materiales destructivos - Portación ilícita de armas"
+70602,"Delitos en materia de armas, explosivos y otros materiales destructivos - Posesión ilícita de armas, cartuchos y cargadores"
+70603,"Delitos en materia de armas, explosivos y otros materiales destructivos - Acopio ilícito de armas"
+70604,"Delitos en materia de armas, explosivos y otros materiales destructivos - Tráfico ilícito de armas, explosivos y otros materiales destructivos"
+70605,"Delitos en materia de armas, explosivos y otros materiales destructivos - Otros delitos en materia de armas, explosivos y otros materiales destructivos"
+70606,"Delitos en materia de armas, explosivos y otros materiales destructivos - No identificado"
+70699,"Delitos en materia de armas, explosivos y otros materiales destructivos - No especificado"
+70700,Asociación delictuosa
+70800,Terrorismo
+70900,Otros delitos contra la seguridad pública y la seguridad del Estado
+79999,No especificado
+80100,Delitos por hechos de corrupción
+80101,Delitos por hechos de corrupción - Ejercicio indebido del servicio público
+80102,Delitos por hechos de corrupción - Abuso de autoridad
+80103,Delitos por hechos de corrupción - Cohecho
+80104,Delitos por hechos de corrupción - Peculado
+80105,Delitos por hechos de corrupción - Enriquecimiento ilícito
+80106,Delitos por hechos de corrupción - Ejercicio abusivo de funciones
+80107,Delitos por hechos de corrupción - Tráfico de influencias
+80108,Delitos por hechos de corrupción - Otros delitos por hechos de corrupción
+80109,Delitos por hechos de corrupción - No identificado
+80199,Delitos por hechos de corrupción - No especificado
+80200,Delitos contra la administración de justicia
+80201,Delitos contra la administración de justicia - En materia de amparo
+80202,Delitos contra la administración de justicia - Otros delitos contra la administración de justicia
+80203,Delitos contra la administración de justicia - No identificado
+80299,Delitos contra la administración de justicia - No especificado
+80300,Delitos en materia fiscal
+80400,Delitos electorales
+80500,Otros delitos contra la administración del Estado
+89999,No especificado
+90100,Amenazas
+90200,Allanamiento de morada
+90300,Falsedad
+90400,Falsificación
+90500,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental"
+90501,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Tráfico de flora o fauna silvestres en peligro de extinción, amenazadas o sujetas a protección"
+90502,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Comercialización de flora o fauna silvestres en peligro de extinción, amenazadas o sujetas a protección"
+90503,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Caza, pesca o tala ilegal de flora o fauna silvestres en peligro de extinción, amenazadas o sujetas a protección"
+90504,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Transporte o manejo de residuos peligrosos"
+90505,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Daños a los ecosistemas o sus elementos"
+90506,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - Otros delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental"
+90507,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - No identificado"
+90599,"Delitos contra el medio ambiente, el equilibrio ecológico y la gestión ambiental - No especificado"
+90600,Delitos en materia de vías de comunicación y correspondencia
+90700,Delitos en materia de migración
+90701,Delitos en materia de migración - Tráfico de indocumentados
+90702,Delitos en materia de migración - Otros delitos en materia de migración
+90703,Delitos en materia de migración - No identificado
+90799,Delitos en materia de migración - No especificado
+90800,Delitos en materia de derechos de autor
+90900,"Delitos en materia de instituciones de crédito, inversión, fianzas y seguros"
+91000,Delitos en materia de propiedad industrial
+91100,Delitos contra la salud no relacionados con narcóticos
+91200,Encubrimiento
+91300,Operaciones con recursos de procedencia ilícita
+91400,Tortura
+91500,Suplantación y usurpación de identidad
+91600,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos
+91601,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - Acceso ilícito a sistemas o equipos informáticos
+91602,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - Daños a datos informáticos
+91603,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - Interferir en el buen funcionamiento de sistemas o equipos informáticos
+91604,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - Otros delitos contra la seguridad de los datos y/o sistemas o equipos informáticos
+91605,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - No identificado
+91699,Delitos contra la seguridad de los datos y/o sistemas o equipos informáticos - No especificado
+91700,"Tratos o penas crueles, inhumanos o degradantes"
+91800,Otros delitos
+99999,No especificado
+100100,No identificado
+999999,No especificado

@@ -1,0 +1,14 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 95,Numérico,5,0 al 99999
+incsiitt,Total,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii1,Acceso lógico no autorizado a sistemas de información (defacement),SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii2,Ataques de fuerza bruta o escaneos de equipo y redes,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii3,Robo o sustracción de información confidencial,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii4,Divulgación no autorizada de información,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii5,"Infección por código malicioso (virus, gusanos, bots, troyanos, rootkits, entre otros)",SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii6,"Negación, inundación o degradación del servicio (DDoS)",SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii7,Phishing,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii8,Reporte de vulnerabilidades en infraestructura TIC,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii9,Envío de correo SPAM,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii10,Otros incidentes de seguridad informáticos,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+incsii11,No identificado,SECC I. 95,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 139,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 139,Carácter,4,0-5000
+nombre1,Nombre de las sedes o planteles de la academia o instituto de formación policial,SECC I. 139,Carácter,2500,
+colonia1,Colonia,SECC I. 139,Carácter,2500,
+latitud1,Latitud,SECC I. 139,Carácter,2500,
+longitu1,Longitud,SECC I. 139,Carácter,2500,
+correo1,Correo electrónico de contacto,SECC I. 139,Carácter,2500,
+telefo1,Número telefónico de contacto (diez dígitos),SECC I. 139,Carácter,2500,

@@ -1,0 +1,7 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 87,Numérico,5,0 al 99999
+rnsnni1,Impartición de pláticas de prevención en materia de ciberseguridad,SECC I. 87,Numérico,2,0 al 98
+evecaptt,Total,SECC I. 87,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evecap1,Presencial,SECC I. 87,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evecap2,En línea,SECC I. 87,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+evecap3,Síncrono,SECC I. 87,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

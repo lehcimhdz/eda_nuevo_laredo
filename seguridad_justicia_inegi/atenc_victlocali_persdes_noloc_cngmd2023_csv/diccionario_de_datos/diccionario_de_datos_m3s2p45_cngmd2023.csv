@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 45,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 45,Numérico,1,1 al 2
+rnsnni1,Conocimiento de alertas AMBER,SECC II. 45,Numérico,2,0 al 98
+totalca1,Alertas AMBER de las que tuvo conocimiento,SECC II. 45,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

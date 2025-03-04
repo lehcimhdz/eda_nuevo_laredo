@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 123,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 123,Carácter,4,0-5000
+nombre1,Nombre de los centros de atención de llamadas de emergencia,SECC I. 123,Carácter,2500,
+instresp_f,Institución responsable de su operación,SECC I. 123,Numérico,2,0 al 98

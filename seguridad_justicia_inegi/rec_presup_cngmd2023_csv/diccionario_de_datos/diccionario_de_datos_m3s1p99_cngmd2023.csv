@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 99,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC I. 99,Numérico,1,1 al 2
+presup1,Proyecto de presupuesto,SECC I. 99,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+presup2,Presupuesto aprobado,SECC I. 99,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+presup3,Presupuesto ejercido,SECC I. 99,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

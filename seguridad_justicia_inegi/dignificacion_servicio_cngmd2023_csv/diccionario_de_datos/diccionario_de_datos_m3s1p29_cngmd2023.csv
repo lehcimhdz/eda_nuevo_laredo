@@ -1,0 +1,10 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 29,Numérico,5,0 al 99999
+tipoequi_f,Tipos de equipamiento y de instrumentos para el uso de la fuerza,SECC I. 29,Numérico,2,11 al 40
+rnsnni1,Se encontraba previsto su otorgamiento y/o asignación en la legislación aplicable,SECC I. 29,Numérico,2,0 al 98
+rnsnni2,Se otorgó y/o asignó al personal adscrito a las corporaciones de la institución encargada de la función de seguridad pública,SECC I. 29,Numérico,2,0 al 98
+totalca1,Equipamiento o instrumentos para el uso de la fuerza otorgados y/o asignados,SECC I. 29,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexostt,Total,SECC I. 29,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos1,Hombres,SECC I. 29,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexos2,Mujeres,SECC I. 29,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+sexosne,No especificado,SECC I. 29,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

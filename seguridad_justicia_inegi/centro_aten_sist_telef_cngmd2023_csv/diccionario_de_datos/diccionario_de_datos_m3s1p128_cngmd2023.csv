@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 128,Numérico,5,0 al 99999
+incidenc_b,Tipo de incidentes,SECC I. 128,Numérico,2,1 al 20
+totalca1,Incidentes registrados durante el año 2021,SECC I. 128,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Incidentes registrados durante el año 2022,SECC I. 128,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

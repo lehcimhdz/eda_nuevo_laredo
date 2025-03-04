@@ -1,0 +1,9 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 69,Numérico,5,0 al 99999
+trapertt,Total,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper1,A fiscalías o agencias del Ministerio Público,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper2,"A complejos de justicia (incluye salas, juzgados, etc.)",SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper3,A hospitales,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper4,A centros penitenciarios o centros especializados de tratamiento o internamiento para adolescentes,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper5,Otro lugar de destino,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+traper6,No identificado,SECC II. 69,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

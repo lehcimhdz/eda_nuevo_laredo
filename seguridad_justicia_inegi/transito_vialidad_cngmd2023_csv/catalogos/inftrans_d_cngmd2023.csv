@@ -1,0 +1,47 @@
+inftrans_d,descrip
+1,Mal manejo vial - Conducir a exceso de velocidad
+2,Mal manejo vial - Conducir en estado de ebriedad o drogado
+3,"Mal manejo vial - No utilizar las luces direccionales, estacionarias o intermitentes para realizar maniobras"
+4,"Mal manejo vial - Rebasar en zonas o carriles prohibidos, con raya continua, en curva o pendientes"
+5,"Mal manejo vial - Conducir en sentido contrario, contraflujo o reversa"
+6,Mal manejo vial - Dar vuelta en zonas o lugares prohibidos
+7,"Mal manejo vial - Invadir o circular en los carriles exclusivos del transporte público, ya sea en el sentido de la vía o en contraflujo"
+8,Mal manejo vial - No respetar las señales del semáforo y/o la señalización vial
+9,Mal manejo vial - No respetar las indicaciones de los agentes de tránsito
+10,Mal manejo vial - No tomar las medidas de precaución o reducción de velocidad para permitir la preferencia de paso y cruce de los peatones
+11,"Mal manejo vial - Impedir, bloquear o no permitir el paso de vehículos de emergencia"
+12,Mal manejo vial - Conducir sin guardar la distancia requerida entre automóviles y/o conducir sin cortesía
+13,Mal manejo vial - Otras infracciones relacionadas con un mal manejo vial
+14,"Obstrucción y conflicto vial - Circular por carriles o zonas prohibidas, invadiendo áreas peatonales, banquetas, camellones, acotamientos"
+15,Obstrucción y conflicto vial - Invadir carriles para uso exclusivo de bicicletas
+16,"Obstrucción y conflicto vial - Estacionarse en lugares prohibidos, en doble fila, sobre la banqueta y/o en lugares de cobro regulado omitiendo el pago"
+17,Obstrucción y conflicto vial - No respetar el no circula
+18,"Obstrucción y conflicto vial - Orinar, defecar o tirar basura en los caminos o carreteras viales"
+19,Obstrucción y conflicto vial - Realizar maniobras de carga y descarga afectando la circulación vial o hacerlo fuera del horario permitido
+20,"Obstrucción y conflicto vial - Ruido excesivo con el motor, bocinas, claxon, entre otros"
+21,Obstrucción y conflicto vial - Otras infracciones relacionadas con obstrucción y conflicto vial
+22,Inseguridad vial - Conducir motocicletas sin casco y/o equipo de seguridad
+23,Inseguridad vial - Conducir sin cinturón de seguridad
+24,"Inseguridad vial - Conducir utilizando celulares, equipo electrónico o cualquier tipo de distractores"
+25,Inseguridad vial - Conducir con más personas de las permitidas según capacidad del vehículo o transportar personas en el exterior del vehículo
+26,"Inseguridad vial - Conducir vehículos con niños sentados en los asientos delanteros, en motos o sin la silla de seguridad"
+27,"Inseguridad vial - Conducir vehículos con vidrios polarizados, rotos o con visibilidad obstruida"
+28,"Inseguridad vial - Conducir vehículos en mal estado, con fallas mecánicas o sin el equipamiento necesario"
+29,"Inseguridad vial - Conducir vehículos sin luces delanteras y/o traseras, o utilizar luces o luminaria no permitida"
+30,Inseguridad vial - Fumar al conducir
+31,"Inseguridad vial - Transportar carga, realizar remolques y/o arrastres sin los requerimientos establecidos"
+32,"Inseguridad vial - Abandonar, darse a la fuga o no permanecer en el sitio de un hecho de tránsito o accidente vial"
+33,Inseguridad vial - Otras infracciones relacionadas con inseguridad vial
+34,Falta de documentación vial - Conducir sin licencia o permiso vigente
+35,Falta de documentación vial - Conducir sin tarjeta de circulación o que no esté vigente
+36,"Falta de documentación vial - Conducir sin placas y/o engomado vigentes, placas sobrepuestas, no visibles o fuera del sitio establecido"
+37,Falta de documentación vial - Conducir sin póliza de seguro o que no esté vigente
+38,Falta de documentación vial - Conducir sin holograma de verificación vehicular o que no esté vigente
+39,Falta de documentación vial - Otras infracciones relacionadas con falta de documentación vial
+40,"Relacionadas con el transporte público de pasajeros - Permitir el ascenso y descenso de pasajeros en zonas prohibidas, circular con las puertas abiertas y/o realizar paradas afectando la circulación vial"
+41,Relacionadas con el transporte público de pasajeros - Cargar combustible llevando pasajeros a bordo y/o con el motor en marcha
+42,"Relacionadas con el transporte público de pasajeros - Prestar el servicio de transporte de pasajeros sin la autorización correspondiente, hacerlo fuera de ruta, localidades u horarios no autorizados"
+43,"Relacionadas con el transporte público de pasajeros - Prestar el servicio de transporte público en unidades no autorizadas, sin cromática y/o sin cumplir los requerimientos de seguridad establecidos"
+44,Relacionadas con el transporte público de pasajeros - Otras infracciones relacionadas con el transporte público de pasajeros
+45,Otro tipo de infracción de tránsito
+46,No identificado

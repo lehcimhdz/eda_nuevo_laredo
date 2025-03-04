@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 136,Numérico,5,0 al 99999
+rnsnni1,Asociación de la institución encargada de la función de seguridad pública con alguna institución a efecto de desarrollar de mejor manera alguna de sus funciones o atribuciones,SECC I. 136,Numérico,2,0 al 98
+totalca1,Asociaciones interinstitucionales,SECC I. 136,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

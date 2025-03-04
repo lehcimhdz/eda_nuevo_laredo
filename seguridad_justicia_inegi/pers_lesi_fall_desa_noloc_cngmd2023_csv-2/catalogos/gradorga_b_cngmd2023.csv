@@ -1,0 +1,18 @@
+gradorga_b,descrip
+11,Comisarios - Comisario General
+12,Comisarios - Comisario Jefe
+13,Comisarios - Comisario
+21,Inspectores - Inspector General
+22,Inspectores - Inspector Jefe
+23,Inspectores - Inspector
+31,Oficiales - Subinspector
+32,Oficiales - Oficial
+33,Oficiales - Suboficial
+41,Escala básica - Policía Primero
+42,Escala básica - Policía Segundo
+43,Escala básica - Policía Tercero
+44,Escala básica - Policía
+50,Otro grado de organización jerárquica
+60,Sin grado de organización jerárquica
+70,No identificado
+99,No especificado

@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 68,Numérico,5,0 al 99999
+audencia_a,Tipo de audiencias,SECC II. 68,Numérico,1,1 al 4
+totalca1,Personal adscrito a la institución encargada de la función de seguridad pública que participó como testigo relevante e indispensable,SECC II. 68,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

@@ -1,0 +1,23 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 56,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 56,Numérico,1,1 al 2
+peciar1,Personal - Fallecidos - Total,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar2,Personal - Fallecidos - Hombres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar3,Personal - Fallecidos - Mujeres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar4,Personal - Fallecidos - No identificado,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar6,Personal - Lesionados - Total,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar7,Personal - Lesionados - Hombres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar8,Personal - Lesionados - Mujeres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar9,Personal - Lesionados - No identificado,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar11,Personas civiles armadas - Fallecidos - Total,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar12,Personas civiles armadas - Fallecidos - Hombres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar13,Personas civiles armadas - Fallecidos - Mujeres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar14,Personas civiles armadas - Fallecidos - No identificado,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar16,Personas civiles armadas - Lesionados - Total,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar17,Personas civiles armadas - Lesionados - Hombres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar18,Personas civiles armadas - Lesionados - Mujeres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar19,Personas civiles armadas - Lesionados - No identificado,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar21,Personas civiles armadas - Detenidos - Total,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar22,Personas civiles armadas - Detenidos - Hombres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar23,Personas civiles armadas - Detenidos - Mujeres,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+peciar24,Personas civiles armadas - Detenidos - No identificado,SECC II. 56,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

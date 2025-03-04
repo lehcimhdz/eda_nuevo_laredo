@@ -1,0 +1,6 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 49,Numérico,5,0 al 99999
+aniorefe_b,Año de referencia,SECC II. 49,Numérico,1,1 al 2
+rnsnni1,Facultad de la institución encargada de la función de seguridad pública para atender y sancionar infracciones de tránsito,SECC II. 49,Numérico,2,0 al 98
+totalca1,Boletas de infracción levantadas,SECC II. 49,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+totalca2,Imágenes detectadas por los sistemas de foto-multa o foto-infracción aceptadas,SECC II. 49,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

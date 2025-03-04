@@ -1,0 +1,11 @@
+siregadm_b,descrip
+0,No aplica
+1,No se encuentra automatizado. Está impreso en papel y se ubica en oficinas diferentes. Requiere un esfuerzo considerable del personal para su recopilación e integración
+2,No se encuentra automatizado. Está en un archivo electrónico de procesador de texto y se ubica en oficinas diferentes. Requiere un esfuerzo considerable del personal para su recopilación e integración
+3,"Se encuentra en una hoja de cálculo, pero no cuenta con códigos, controles de consistencia ni campos estandarizados, por tratarse de planillas para sistematizar información para controles administrativos. Requiere un esfuerzo considerable para ser transformado y ser aprovechado estadísticamente"
+4,"Se encuentra organizado en forma sistemática en archivos (formato de tabla, archivo plano o planilla Excel) a través de un formulario estandarizado de computadora, con elementos de identificación y seguridad. Los archivos pueden ser entregados en medios electrónicos o ser enviados por correo electrónico u otro método de transferencia electrónica de datos"
+5,"Se encuentra organizado en una base de datos, sistema de información o plataforma informática con fácil acceso para consultar, recuperar y analizar la información"
+9,No identificado
+96,No publicable por el principio de confidencialidad o por reserva de información
+97,No cuenta con elementos para responder
+98,Información no disponible

@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 135,Numérico,5,0 al 99999
+rnspni1,Existencia de informe anual de actividades o labores,SECC I. 135,Numérico,2,0 al 98
+dirurl1,Sitio donde se encuentra disponible (URL),SECC I. 135,Carácter,2500,

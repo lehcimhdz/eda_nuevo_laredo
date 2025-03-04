@@ -1,0 +1,19 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 124,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 124,Carácter,4,0-5000
+nombre1,Nombre de los centros de atención de llamadas de emergencia,SECC I. 124,Carácter,2500,
+opdesutt,Total,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu1,Total - Hombres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu2,Total - Mujeres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesus1,Operadores - Subtotal,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu3,Operadores - Hombres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu4,Operadores - Mujeres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesus2,Despachadores - Subtotal,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu6,Despachadores - Hombres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu7,Despachadores - Mujeres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesus3,Supervisores - Subtotal,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu9,Supervisores - Hombres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu10,Supervisores - Mujeres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesus4,Otro cargo y/o función desempeñada - Subtotal,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu12,Otro cargo y/o función desempeñada - Hombres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+opdesu13,Otro cargo y/o función desempeñada - Mujeres,SECC I. 124,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

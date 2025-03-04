@@ -1,0 +1,18 @@
+periactu_b,descrip
+0,No aplica
+1,Permanente / tiempo real
+2,Diario
+3,Semanal
+4,Quincenal
+5,Mensual
+6,Bimestral
+7,Trimestral
+8,Cuatrimestral
+9,Semestral
+10,Anual
+11,Periodos mayores a un año
+12,Otra periodicidad
+99,No identificado
+996,No publicable por el principio de confidencialidad o por reserva de información
+997,No cuenta con elementos para responder
+998,Información no disponible

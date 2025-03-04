@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 94,Numérico,5,0 al 99999
+incdelec_d,Tipo de incidente cibernético,SECC I. 94,Numérico,2,1 al 99
+totalca1,Incidentes cibernéticos registrados,SECC I. 94,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

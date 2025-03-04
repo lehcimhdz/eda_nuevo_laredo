@@ -1,0 +1,7 @@
+infrapol_b,descrip
+10,"Comandancias, estaciones y subestaciones de policía"
+20,Cuarteles de policía
+31,Módulos y casetas de policía - Fijos(as)
+32,Módulos y casetas de policía - Móviles
+40,Otro tipo de infraestructura (con características similares a las anteriores)
+99,No especificado

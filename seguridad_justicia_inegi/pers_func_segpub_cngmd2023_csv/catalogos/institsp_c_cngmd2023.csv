@@ -1,0 +1,29 @@
+institsp_c,descrip
+0,No aplica
+1,Secretaría de la Defensa Nacional
+2,Secretaría de Marina
+3,Policía Federal / Guardia Nacional
+4,Órgano Administrativo Desconcentrado Prevención y Readaptación Social
+5,"Secretaría de Seguridad y Protección Ciudadana (sin incluir, de ser el caso, a la Policía Federal, Guardia Nacional y al Órgano Administrativo Desconcentrado Prevención y Readaptación Social)"
+6,"Secretaría de Gobernación (sin incluir, de ser el caso, a la Policía Federal y al Órgano Administrativo Desconcentrado Prevención y Readaptación Social)"
+7,Fiscalía General de la República
+8,Poder Judicial de la Federación
+9,Secretaría de Seguridad Pública u homóloga de la entidad federativa
+10,Secretaría de Seguridad Pública u homóloga de otra entidad federativa
+11,Secretaría de Gobierno u homóloga de la entidad federativa
+12,Secretaría de Gobierno u homóloga de otra entidad federativa
+13,Fiscalía General o Procuraduría General de Justicia de la entidad federativa
+14,Fiscalía General o Procuraduría General de Justicia de otra entidad federativa
+15,Poder Judicial de la entidad federativa
+16,Poder Judicial de otra entidad federativa
+17,Secretaría de Seguridad Pública u homóloga del municipio
+18,Secretaría de Seguridad Pública u homóloga de otro municipio de la entidad federativa
+19,Secretaría de Seguridad Pública u homóloga de algún municipio de otra entidad federativa
+20,Otra institución del sector público
+21,Organización del sector privado
+22,Es primer trabajo
+23,Otra institución
+99,No identificado
+996,No publicable por el principio de confidencialidad o por reserva de información
+997,No cuenta con elementos para responder
+998,Información no disponible

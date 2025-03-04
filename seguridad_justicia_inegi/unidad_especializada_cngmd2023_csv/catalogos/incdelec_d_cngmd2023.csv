@@ -1,0 +1,38 @@
+incdelec_d,descrip
+1,Agravio contra personas - Acoso
+2,Agravio contra personas - Amenazas
+3,Agravio contra personas - Difamación
+4,Agravio contra personas - Sexting
+5,Agravio contra personas - Suplantación de identidad
+6,Fraude y extorsión - Extorsión
+7,Fraude y extorsión - Fraude al comercio electrónico
+8,Fraude y extorsión - Fraude al usuario de la banca electrónica
+9,Fraude y extorsión - Fraude de soporte técnico
+10,Fraude y extorsión - Fraude de empleo
+11,Fraude y extorsión - Fraude nigeriano
+12,Fraude y extorsión - Fraudes diversos
+13,Eventos de seguridad informática - Intrusión a sistemas
+14,Eventos de seguridad informática - Hacking (deface)
+15,Eventos de seguridad informática - Malware (virus policía)
+16,Eventos de seguridad informática - Anti/Shildporn Spam Protection 2.0
+17,Eventos de seguridad informática - Criptolocker
+18,Eventos de seguridad informática - Phishing
+19,Eventos de seguridad informática - Robo de contraseñas en redes sociales
+20,Eventos de seguridad informática - Pharming
+21,Delitos contra menores - Acoso contra menor de edad
+22,Delitos contra menores - Amenazas contra menor de edad
+23,Delitos contra menores - Ciberbullying
+24,Delitos contra menores - Corrupción contra menor de edad
+25,Delitos contra menores - Desaparición de menor de edad
+26,Delitos contra menores - Difamación contra menor de edad
+27,Delitos contra menores - Grooming
+28,Delitos contra menores - Pedofilia
+29,Delitos contra menores - Pornografía infantil
+30,Delitos contra menores - Robo de contraseñas en redes sociales a menores de edad
+31,Delitos contra menores - Suplantación de identidad contra menores de edad
+32,Delitos contra menores - Trata de menores de edad
+33,Reporte ciudadano de páginas web
+34,Terrorismo cibernético
+35,Otro tipo de incidente cibernético
+36,No identificado
+99,No especificado

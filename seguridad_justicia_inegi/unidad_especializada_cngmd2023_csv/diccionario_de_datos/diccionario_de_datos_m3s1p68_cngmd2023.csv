@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 68,Numérico,5,0 al 99999
+rnsnni1,Cooperación o interacción de la unidad de proximidad social u homóloga con alguna red vecinal,SECC I. 68,Numérico,2,0 al 98
+totalca1,Redes vecinales con las que cooperó o tuvo interacción,SECC I. 68,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

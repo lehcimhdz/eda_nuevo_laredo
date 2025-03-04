@@ -1,0 +1,23 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 110,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 110,Carácter,4,0-5000
+nombre1,"Nombre de las comandancias, estaciones o subestaciones de policía",SECC I. 110,Carácter,2500,
+rnsnni1,Reporte de algún arma como desaparecida o perdida,SECC I. 110,Numérico,2,0 al 98
+armrec1,Armas reportadas como desaparecidas o perdidas - Total,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec2,Armas reportadas como desaparecidas o perdidas - Armas de fuego - Largas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec3,Armas reportadas como desaparecidas o perdidas - Armas de fuego - Cortas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec4,Armas reportadas como desaparecidas o perdidas - Armas de fuego - No identificado,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec5,Armas reportadas como desaparecidas o perdidas - Explosivos - Granadas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec6,Armas reportadas como desaparecidas o perdidas - Explosivos - Minas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec7,Armas reportadas como desaparecidas o perdidas - Explosivos - No identificado,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec8,Armas reportadas como desaparecidas o perdidas - Municiones (cartuchos),SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec9,Armas reportadas como desaparecidas o perdidas - Otro tipo de armas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec11,Armas recuperadas - Total,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec12,Armas recuperadas - Armas de fuego - Largas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec13,Armas recuperadas - Armas de fuego - Cortas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec14,Armas recuperadas - Armas de fuego - No identificado,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec15,Armas recuperadas - Explosivos - Granadas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec16,Armas recuperadas - Explosivos - Minas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec17,Armas recuperadas - Explosivos - No identificado,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec18,Armas recuperadas - Municiones (cartuchos),SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+armrec19,Armas recuperadas - Otro tipo de armas,SECC I. 110,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

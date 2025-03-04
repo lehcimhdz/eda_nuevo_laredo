@@ -1,0 +1,21 @@
+institsp_a,descrip
+1,Instituciones del Poder Ejecutivo Federal
+2,Instituciones del Poder Legislativo Federal
+3,Instituciones del Poder Judicial Federal
+4,Órganos constitucionales autónomos federales (sin incluir a la FGR)
+5,Fiscalía General de la República
+6,Instituciones del Poder Ejecutivo de la entidad federativa u otras entidades federativas (sin incluir a las procuradurías generales de justicia que dependan del Poder Ejecutivo)
+7,Instituciones del Poder Legislativo de la entidad federativa u otras entidades federativas
+8,Instituciones del Poder Judicial de la entidad federativa u otras entidades federativas
+9,Órganos constitucionales autónomos de la entidad federativa u otras entidades federativas (sin incluir a las fiscalías generales con autonomía constitucional)
+10,Fiscalía General o Procuraduría General de Justicia de la entidad federativa u otras entidades federativas
+11,Instituciones del Poder Ejecutivo de los municipios o demarcaciones territoriales de la entidad federativa u otras entidades federativas
+12,Instituciones extranjeras o internacionales de seguridad
+13,Organismos internacionales
+14,Organizaciones de la sociedad civil
+15,Universidades o instituciones académicas
+16,"Asociaciones religiosas, culturales o humanitarias"
+17,Organizaciones del sector privado
+18,Otro tipo de institución
+19,No identificado
+99,No especificado

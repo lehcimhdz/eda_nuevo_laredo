@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 66,Numérico,5,0 al 99999
+rnspni1,Existencia de una cartografía digital,SECC I. 66,Numérico,2,0 al 98
+dirurl1,Sitio donde se encontraba disponible la cartografía digital (URL),SECC I. 66,Carácter,2500,

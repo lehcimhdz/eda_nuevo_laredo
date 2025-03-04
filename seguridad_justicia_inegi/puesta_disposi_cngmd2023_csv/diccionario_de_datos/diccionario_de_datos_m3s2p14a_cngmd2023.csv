@@ -1,0 +1,15 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC II. 14,Numérico,5,0 al 99999
+bienjuri_b,Bien jurídico,SECC II. 14,Numérico,2,1 al 99
+tipdelit_e,Tipo de delito,SECC II. 14,Numérico,6,10100 al 999999
+instcott,Total,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco1,Con arma de fuego,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco2,Con arma blanca,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco3,Con alguna parte del cuerpo,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco4,Con algún vehículo,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco5,Con algún medio electrónico o informático,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco6,Con otro instrumento,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco7,Con dos o más instrumentos,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco8,Con ningún instrumento,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instco9,No identificado,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+instcone,No especificado,SECC II. 14,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"

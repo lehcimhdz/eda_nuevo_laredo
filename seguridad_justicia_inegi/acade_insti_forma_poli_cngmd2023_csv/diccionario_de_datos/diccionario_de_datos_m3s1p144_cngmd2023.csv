@@ -1,0 +1,4 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 144,Numérico,5,0 al 99999
+elemento_e,Elementos considerados en el perfil de ingreso para el aspirante a policía preventivo,SECC I. 144,Numérico,2,1 al 99
+siaplica,Indicativo de que si aplica o si fue seleccionado el rubro correspondiente,SECC I. 144,Carácter,3,"1, NA, NSS, ND, NP, NULL"

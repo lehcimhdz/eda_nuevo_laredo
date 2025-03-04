@@ -1,0 +1,23 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 1,Numérico,5,0 al 99999
+numeral,Identificador o numeral del orden que guarda cada registro capturado dentro de la lista,SECC I. 1,Carácter,4,0-5000
+nombre1,Nombre de las asociaciones en materia de Mando Único Policial u homólogo,SECC I. 1,Carácter,2500,
+instregu_c,Tipo de instrumento regulatorio,SECC I. 1,Numérico,2,0 al 98
+anios_a,Año de entrada en vigor (aaaa),SECC I. 1,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+anios_b,Año de vencimiento - Año (aaaa),SECC I. 1,Carácter,4,"1900-2090, NA, NSS, ND, NP, NULL"
+indefini,Año de vencimiento - Indefinido,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect1,Aspectos comprendidos - Homologación salarial del personal,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect2,"Aspectos comprendidos - Homologación de las prestaciones laborales (estímulos, recompensas, pensiones, entre otras)",SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect3,Aspectos comprendidos - Homologación de la política de profesionalización y/o capacitación adicional,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect4,Aspectos comprendidos - Homologación de procedimientos para la evaluación del personal,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect5,Aspectos comprendidos - Homologación de la estructura operacional / sectorización del territorio,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect6,Aspectos comprendidos - Presupuesto compartido,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect7,Aspectos comprendidos - Uso compartido de instalaciones y recursos materiales,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect8,Aspectos comprendidos - Uso compartido de equipamiento y tecnología,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect9,Aspectos comprendidos - Unificación de los sistemas de información,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect10,Aspectos comprendidos - Establecimiento de políticas y mecanismos de coordinación para la atención de víctimas,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect11,Aspectos comprendidos - Establecimiento de políticas y mecanismos de coordinación para la persecución de probables responsables o infractores,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect12,Aspectos comprendidos - Establecimiento de mecanismos de colaboración en materia de régimen disciplinario,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect13,Aspectos comprendidos - Establecimiento de mecanismos de colaboración en materia de tránsito y vialidad,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect14,Aspectos comprendidos - Otro aspecto,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+aspect15,Aspectos comprendidos - No identificado,SECC I. 1,Carácter,3,"1, NA, NSS, ND, NP, NULL"

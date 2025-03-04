@@ -1,0 +1,5 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 80,Numérico,5,0 al 99999
+bienjuri_b,Bien jurídico,SECC I. 80,Numérico,2,1 al 99
+tipdelit_e,Tipo de delito,SECC I. 80,Numérico,6,10100 al 999999
+rnsnni1,La unidad de investigación u homóloga estaba facultada para investigar el delito,SECC I. 80,Numérico,2,0 al 98

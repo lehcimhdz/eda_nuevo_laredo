@@ -1,0 +1,21 @@
+COLUMNA,DESCRIPCION,ORIGEN,TIPO_DATO,LONGITUD,CODIGO_VALIDO
+ubicageo_f,Municipio,SECC I. 89,Numérico,5,0 al 99999
+accprevi_c,Temas,SECC I. 89,Numérico,2,1 al 99
+noimpart,Indicativo de No se impartió capacitación para el rubro correspondiente,SECC I. 89,Carácter,3,"1, NA, NSS, ND, NP, NULL"
+totalca1,Pláticas de prevención impartidas,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persextt,Total,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex1,Total - Hombres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex2,Total - Mujeres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex3,Total - No identificado,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persexs1,Personas servidoras públicas - Subtotal,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex4,Personas servidoras públicas - Hombres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex5,Personas servidoras públicas - Mujeres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex6,Personas servidoras públicas - No identificado,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persexs2,Población en general - Subtotal,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex8,Población en general - Hombres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex9,Población en general - Mujeres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex10,Población en general - No identificado,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persexs3,No identificado - Subtotal,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex12,No identificado - Hombres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex13,No identificado - Mujeres,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
+persex14,No identificado - No identificado,SECC I. 89,Carácter,20,"0-999999999999999, NA, NSS, ND, NP, NULL"
